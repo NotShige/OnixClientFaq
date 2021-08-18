@@ -168,7 +168,7 @@ You could be in the discord web or you could have disabled rpc showing on the de
 
 
 
-### **Why is there are no DLLs in #download Just injectors/launchers?**
+### **Why is there no DLLs in #download Just injectors/launchers?**
 This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: [download](https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true).
 
 
