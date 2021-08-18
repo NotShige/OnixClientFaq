@@ -242,39 +242,39 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 -Exclude: [here](https://bit.ly/3hfyeNG)
 
--Disable: https://bit.ly/3dxe1BM
+-Disable: [here](https://bit.ly/3dxe1BM)
 
 
 **Webroot**
 
 
--Disable: https://bit.ly/36jG1Vw
+-Disable: [here](https://bit.ly/36jG1Vw)
 
--Exclude: https://bit.ly/3hF8uuf
+-Exclude: [here](https://bit.ly/3hF8uuf)
 
 
 **Panda/Panda Dome**
 
 
--Disable: https://bit.ly/3dSmRug
+-Disable: [here](https://bit.ly/3dSmRug)
 
--Exclude: https://bit.ly/3jPIIpN
+-Exclude: [here](https://bit.ly/3jPIIpN)
 
 
 **spectrum f-secure**
 
 
--Disable: https://bit.ly/3hGm81B
+-Disable: [here](https://bit.ly/3hGm81B)
 
--Exclude: https://bit.ly/3ei1Zg4
+-Exclude: [here](https://bit.ly/3ei1Zg4)
 
 
 **pcmatic**
 
 
--Disable: https://bit.ly/3ikdGFs
+-Disable: [here](https://bit.ly/3ikdGFs)
 
--Exclude: https://bit.ly/3lmM701
+-Exclude: [here](https://bit.ly/3lmM701)
 
 
 If you have an antivirus not included here or the bit.ly link stops working, dm me so I can fix it :).
