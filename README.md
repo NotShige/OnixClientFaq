@@ -116,7 +116,7 @@ do ``.help`` in chat for a list
 
 
 **How do I downgrade/update?**
-- Do this if your current version isn't supported, download Mclauncher from https://github.com/MCMrARM/mc-w10-version-launcher, if you need help, watch this video: https://youtu.be/L7joMbeNTX4 or go to https://store.rg-adguard.net/ and enter the link https://www.microsoft.com/en-gb/p/minecraft-for-windows-10/9nblggh2jhxj?activetab=pivot:overviewtab to get the newest (non beta) appx or if you are looking for a specific appx you can dm me for one.
+- Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help, watch [this video](https://youtu.be/L7joMbeNTX4) or dm me on discord @ItzHugo#0001 for any version mc appx.
 
 
 
@@ -133,7 +133,7 @@ if you meet the requirements open a ticket.
 
 
 ### **Do I still get beta if I boost?**
-No, you don't. All you get is #cool-chat .
+No, you don't. All you get is [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784).
 
 
 
