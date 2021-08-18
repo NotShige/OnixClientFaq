@@ -232,9 +232,9 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 **Quick Heal**
 
 
--Exclude: https://bit.ly/3quUbws
+-Exclude: [here](https://bit.ly/3quUbws)
 
--Disable: https://bit.ly/3AbYIYS
+-Disable: [here](https://bit.ly/3AbYIYS)
 
 
 **AVG**
