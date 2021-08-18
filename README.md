@@ -116,7 +116,7 @@ do ``.help`` in chat for a list
 
 
 **How do I downgrade/update?**
-- Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help, watch [this video](https://youtu.be/L7joMbeNTX4) or dm me on discord @ItzHugo#0001 for any version mc appx.
+- Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help watch [this video](https://youtu.be/L7joMbeNTX4), or dm me on discord @ItzHugo#0001 for any version mc appx.
 
 
 
@@ -139,7 +139,7 @@ No, you don't. All you get is [#cool-chat](https://discord.com/channels/81419507
 
 ### **Minecraftia Font**
 - To enable mincraftia font open the gui then press module settings. On the right you should see mincraftia font enable that and you should be good. 
-- If it looks bad a good size for it is 1.30.
+- If it looks bad try change the size for it is 1.30.
 
 
 
@@ -150,7 +150,8 @@ You can try using these settings.
 
 
 ### **I Need the Onix Logo For a Thumbnail**
-![](https://cdn.discordapp.com/attachments/814665460544831528/826348333630357564/Onix_Logo.png)
+![](https://cdn.discordapp.com/attachments/814665460544831528/826348333630357564/Onix_Logo.png) ![](https://media.discordapp.net/attachments/814195789839466596/876720549710151720/image0.png?width=622&height=622)
+
 
 
 
