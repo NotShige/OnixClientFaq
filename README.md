@@ -182,7 +182,7 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 ### **Why are the screenshots I take with onix black?**
-- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. For this to work you need minecraft installed in debug mode. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
+- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. For your screenshots not to be black you need minecraft installed in debug mode. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
 
 
 
