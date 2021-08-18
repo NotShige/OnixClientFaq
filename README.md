@@ -153,6 +153,7 @@ You can try using these settings.
 ![](https://cdn.discordapp.com/attachments/814665460544831528/826348333630357564/Onix_Logo.png)
 ![](https://media.discordapp.net/attachments/814195789839466596/876720549710151720/image0.png?width=622&height=622)
 ![](https://cdn.discordapp.com/icons/814195071356370977/a_a1371fc522fd325f99e6a47c07197edd.gif?size=4096)
+![](https://media.discordapp.net/attachments/852356013395148850/877585642660433950/onix2satur.png)
 
 
 
