@@ -1,20 +1,24 @@
 # Client FAQ
+
+## If you have any questions, problems, bugs that you would like to report you can head over to 
+[#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
+
+[#make-a-ticket](https://discord.com/channels/814195071356370977/814277715594838087)
+
+[#bug-report](https://discord.com/channels/814195071356370977/852516190109958144)
+
+
 # **How to download the client**
-- Head over to #download and download the latest dll.
-‎
-- Download an Injector of your choice, which can be found in #faq
-- Fate Injector https://github.com/fligger/FateClient 
-- Onix Client injectors/launchers #download          
+- Head over to [#download](https://discord.com/channels/814195071356370977/852334369061863464) and download the latest dll.
+- Fate Injector [here](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
+
+
+
+- Onix Client injectors/launchers [#download](https://discord.com/channels/814195071356370977/852334369061863464)         
 ### **Why are my rainbow modules not synced/in time with each other**
 - Do .syncrainbow in chat
 ‎
 ‎
-
-
-- If you have any questions, problems, bugs that you would like to report you can head over to 
-- #community-support
-- #make-a-ticket
-- #bug-report
 
 
 
@@ -164,23 +168,23 @@ You could be in the discord web or you could have disabled rpc showing on the de
 
 
 
-### **Why is there are no DLLs in #download Just injectors?**
-This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: https://github.com/bernarddesfosse/onixclientautoupdate (its called OinxClient.dll.)
+### **Why is there are no DLLs in #download Just injectors/launchers?**
+This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: [download](https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true).
 
 
 
 ### **Why are the screenshots I take with onix black?**
-- The screenshot function is broken. uwp apps have lost perms for app capture services so blame windows. Old versions of windows/minecraft might still support it though. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
+- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. Old versions of windows/minecraft might still support it though. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
 
 
 
 ### **Why don't the potion hud icons show?**
-- Your pack is most likely removing them, download the hotfix pack in <#852320290750726145> and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
+- Your pack is most likely removing them, download the hotfix pack in [#public-beta](https://discord.com/channels/814195071356370977/852516190109958144) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
 
 
 
 ### **Why does the onix launcher/injector give me a .net framework error when I open it?**
-- Make sure both of these are installed: <https://dotnet.microsoft.com/download/dotnet-framework/net48> The ``runtime`` one & <https://aka.ms/vs/16/release/vc_redist.x64.exe>. then try to reopen it.
+- Make sure both of these are installed: [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) the ``runtime`` one & [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe). then try to reopen it.
 
 
 
