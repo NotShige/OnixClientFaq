@@ -10,6 +10,12 @@
 [#bug-report](https://discord.com/channels/814195071356370977/852516190109958144)
 
 
+# **I want to support the client, how can I do that?**
+- You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hezitate to open a ticket to get your roles if the bot doesn't already sync them.
+![](https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/patreon-media/p/campaign/6852030/b69c55b3fc4f48f79fcc53614733179c/5.png?token-time=1630713600&token-hash=glY7lJkDdk33dl8dyd5c0bZ5IWGqBE5wuKM7B9gaQxA%3D)
+
+
+
 # **How to download the client:**
 - Head over to [#download](https://discord.com/channels/814195071356370977/852334369061863464) and download the latest dll.
 - Fate Injector [here](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
@@ -161,34 +167,38 @@ You can try using these settings.
 
 
 
-### **I want to support the client, how can I do that?**
-- You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hezitate to open a ticket to get your roles if the bot doesn't already sync them.
-![](https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/patreon-media/p/campaign/6852030/b69c55b3fc4f48f79fcc53614733179c/5.png?token-time=1630713600&token-hash=glY7lJkDdk33dl8dyd5c0bZ5IWGqBE5wuKM7B9gaQxA%3D)
-
-
-
 ### **Why is there no DLLs in #download Just injectors/launchers?**
 This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: [download](https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true).
 
 
 
 ### **Why are the screenshots I take with onix black?**
-- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. For your screenshots not to be black you need minecraft installed in debug mode. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
+- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. For your screenshots not to be black you need minecraft installed in debug mode (don't ask me how). I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
 
 
 
 ### **Why don't the potion hud icons show?**
-- Your pack is most likely removing them, download the hotfix pack [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
+- Your pack is most likely removing them, download the hotfix pack [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars as it uses the same layer as them.
 
 
 
 ### **Why does the onix launcher/injector give me a .net framework error when I open it?**
-- Make sure both of these are installed: [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) the ``runtime`` one & [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe). then try to reopen it.
+- Make sure both of these are installed: [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) the ``runtime`` one & [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe). Then try to reopen it.
 
 
 
 ### **Why when I have render options on I can't see beds and chests and other blocks?**
 - This is because you have ``hide tile entities`` turned on. Title entity (also known as block entity) is extra data associated with a block. On bedrock they are called blockActor but more people are familiar to how java calls them: TileEntity.
+
+
+
+### **How do I change the theme of my onix gui?**
+- Do ``.theme`` in chat. To share themes go to your onix client folder and there is a file called ``theme.txt``. To change theme with a premade theme have minecraft closed then delete the ``theme.txt`` from your folder then save the new one in the folder with the file name ``theme.txt`` and reopen minecraft and it should have loaded. At this time there is not a theme manager like the config one (.config) and there probably won't be because onix doesn't wanna make it.
+
+
+
+### **How do I reset a color/module?**
+-Middle click (by clicking the scroll wheel directly down) the change color button or the module in the onix gui.
 
 
 
@@ -208,8 +218,6 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 **Norton**
-
-
 
 
 
