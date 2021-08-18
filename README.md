@@ -187,7 +187,7 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 ### **Why don't the potion hud icons show?**
-- Your pack is most likely removing them, download the hotfix pack here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
+- Your pack is most likely removing them, download the hotfix pack [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
 
 
 
