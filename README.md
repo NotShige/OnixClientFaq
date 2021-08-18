@@ -8,7 +8,7 @@
 [#bug-report](https://discord.com/channels/814195071356370977/852516190109958144)
 
 
-# **How to download the client**
+# **How to download the client:**
 - Head over to [#download](https://discord.com/channels/814195071356370977/852334369061863464) and download the latest dll.
 - Fate Injector [here](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
 
