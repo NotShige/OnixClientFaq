@@ -1,6 +1,6 @@
 # Onix Client FAQ
 
-[Join the onix discord for support, downloads and chats with the other 53.6k members](https://dsc.gg/onix-client)
+[Join the onix discord for support, downloads and chats with the other 53.6k members here:](https://dsc.gg/onix-client) https://dsc.gg/onix-client
 
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
