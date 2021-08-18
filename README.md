@@ -5,7 +5,7 @@
 - Download an Injector of your choice, which can be found in #faq
 - Fate Injector https://github.com/fligger/FateClient 
 - Onix Client injectors/launchers #download          
-# **Why are my rainbow modules not synced/in time with each other**
+### **Why are my rainbow modules not synced/in time with each other**
 - Do .syncrainbow in chat
 ‎
 ‎
@@ -18,7 +18,7 @@
 
 
 
-# **How do I inject**
+### **How do I inject**
 - Select the dll in your chosen injector and press the inject button
 - Some Options:
 Fate Injector: https://github.com/fligger/FateClient
@@ -27,12 +27,12 @@ Old Horion Injector: https://discord.com/channels/814195071356370977/81419507180
 
 
 
-# **Why is the zoom not working with my hotkey?**
+### **Why is the zoom not working with my hotkey?**
 Right click the module first the hotkey doesn't auto enable it for some reason. This will be fixed in new versions of the client. 
 
 
 
-# **How do I eject the client?**
+### **How do I eject the client?**
 Do CTRL + L
 
 
@@ -41,7 +41,7 @@ Do CTRL + L
 
 
 
-# **What versions does the client support?**
+### **What versions does the client support?**
 - Supported versions:
 
 ```diff
@@ -59,12 +59,12 @@ Do CTRL + L
 ```
 
 
-# **What’s the latest version of the client?**
+### **What’s the latest version of the client?**
 - The current latest is version 2.40
 
 
 
-# **What features are in the client?**
+### **What features are in the client?**
 
 
 
@@ -109,7 +109,7 @@ do ``.help`` in chat for a list
 
 
 
-# **How do I download this for mobile?**
+### **How do I download this for mobile?**
 - As the discord name suggests this is only for Windows 10 64 bit
 
 
@@ -119,11 +119,11 @@ do ``.help`` in chat for a list
 
 
 
-# Others FAQ
+### Others FAQ
 
 
 
-# **How do I apply for YouTube Role/Rank (@Youtuber)**
+### **How do I apply for YouTube Role/Rank (@Youtuber)**
 Requirements:
 - 750+ Subs
 - A video about Onix Client
@@ -131,65 +131,65 @@ if you meet the requirements open a ticket.
 
 
 
-# **Do I still get beta if I boost?**
+### **Do I still get beta if I boost?**
 No, you don't. All you get is #cool-chat .
 
 
 
-# **Minecraftia Font**
+### **Minecraftia Font**
 - To enable mincraftia font open the gui then press module settings. On the right you should see mincraftia font enable that and you should be good. 
 - If it looks bad a good size for it is 1.30.
 
 
 
-# **What about my Keystrokes?**
+### **What about my Keystrokes?**
 You can try using these settings.
 ![](https://cdn.discordapp.com/attachments/852356013395148850/859148426885201980/unknown.png)
 
 
 
-# **I Need the Onix Logo For a Thumbnail**
+### **I Need the Onix Logo For a Thumbnail**
 ![](https://cdn.discordapp.com/attachments/814665460544831528/826348333630357564/Onix_Logo.png)
 
 
 
-# **I want to support the client, how can I do that?**
+### **I want to support the client, how can I do that?**
 - You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hezitate to open a ticket to get your roles.
 ![](https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/patreon-media/p/campaign/6852030/b69c55b3fc4f48f79fcc53614733179c/5.png?token-time=1630713600&token-hash=glY7lJkDdk33dl8dyd5c0bZ5IWGqBE5wuKM7B9gaQxA%3D)
 
 
 
-# **Why is the rpc still not showing?**
+### **Why is the rpc still not showing?**
 You could be in the discord web or you could have disabled rpc showing on the desktop client.
 
 
 
-# **Why is there are no DLLs in #download Just injectors?**
+### **Why is there are no DLLs in #download Just injectors?**
 This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: https://github.com/bernarddesfosse/onixclientautoupdate (its called OinxClient.dll.)
 
 
 
-# **Why are the screenshots I take with onix black?**
+### **Why are the screenshots I take with onix black?**
 - The screenshot function is broken. uwp apps have lost perms for app capture services so blame windows. Old versions of windows/minecraft might still support it though. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
 
 
 
-# **Why don't the potion hud icons show?**
+### **Why don't the potion hud icons show?**
 - Your pack is most likely removing them, download the hotfix pack in <#852320290750726145> and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
 
 
 
-# **Why does the onix launcher/injector give me a .net framework error when I open it?**
+### **Why does the onix launcher/injector give me a .net framework error when I open it?**
 - Make sure both of these are installed: <https://dotnet.microsoft.com/download/dotnet-framework/net48> The ``runtime`` one & <https://aka.ms/vs/16/release/vc_redist.x64.exe>. then try to reopen it.
 
 
 
-# **Why when I have render options on I can't see beds and chests and other blocks?**
+### **Why when I have render options on I can't see beds and chests and other blocks?**
 - This is because you have ``hide tile entities`` turned on. Title entity (also known as block entity) is extra data associated with a block. On bedrock they are called blockActor but more people are familiar to how java calls them: TileEntity
 
 
 
-# **Antivirus blocks the client**
+### **Antivirus blocks the client**
 - Depending on the anti-virus that you are using you may either turn it off so you can download the client or you can exclude it. To note, this client is not a virus of any sort.
 - How do Disable/Exclude 
 
