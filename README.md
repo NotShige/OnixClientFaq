@@ -118,7 +118,7 @@ do ``.help`` in chat for a list
 
 
 **How do I open the onix module settings?**
-Click L in a world or server then click module settings.
+- Click L in a world or server then click module settings.
 
 
 
