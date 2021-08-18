@@ -117,6 +117,11 @@ do ``.help`` in chat for a list
 
 
 
+**How do I open the onix module settings?**
+Click L in a world or server then click module settings.
+
+
+
 **How do I downgrade/update?**
 - Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help watch [this video](https://youtu.be/L7joMbeNTX4), or dm me on discord @ItzHugo#0001 for any version mc appx.
 
