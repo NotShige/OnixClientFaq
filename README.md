@@ -11,7 +11,7 @@
 
 
 # **I want to support the client, how can I do that?**
-- You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hezitate to open a ticket to get your roles if the bot doesn't already sync them.
+- You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hesitate to open a ticket to get your roles if the bot doesn't already sync them.
 ![](https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/patreon-media/p/campaign/6852030/b69c55b3fc4f48f79fcc53614733179c/5.png?token-time=1630713600&token-hash=glY7lJkDdk33dl8dyd5c0bZ5IWGqBE5wuKM7B9gaQxA%3D)
 
 
