@@ -1,6 +1,6 @@
 # Onix Client FAQ
 
-## If you have any questions, problems, bugs that you would like to report you can go over to 
+## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
 
 [#make-a-ticket](https://discord.com/channels/814195071356370977/814277715594838087)
