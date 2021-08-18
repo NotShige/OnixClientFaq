@@ -18,7 +18,7 @@
 
 - Onix Client injectors/launchers [#download](https://discord.com/channels/814195071356370977/852334369061863464)         
 ### **Why are my rainbow modules not synced/in time with each other**
-- Do ``.syncrainbow`` in chat
+- Do ``.syncrainbow`` in chat.
 ‎
 ‎
 
@@ -108,12 +108,13 @@ player list tab
 Theme editor (Do .Theme in chat)
 .Commands 
 ```
-do ``.help`` in chat for a list 
+
+do ``.help`` in chat for a list of the onix chat cmds.
 
 
 
 ### **How do I download this for mobile?**
-- As the discord name suggests this is only for Windows 10 64 bit
+- As the discord name suggests this is only for Windows 10 64 bit **ONLY.**
 
 
 
@@ -124,10 +125,6 @@ do ``.help`` in chat for a list
 
 **How do I downgrade/update?**
 - Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help watch [this video](https://youtu.be/L7joMbeNTX4), or dm me on discord @ItzHugo#0001 for any version mc appx.
-
-
-
-### Others FAQ
 
 
 
@@ -164,15 +161,9 @@ You can try using these settings.
 
 
 
-
 ### **I want to support the client, how can I do that?**
 - You can support us by donating to [our official patreon](https://www.patreon.com/onixclient) the perks are listed in the tiers. If you buy a tier please don't hezitate to open a ticket to get your roles if the bot doesn't already sync them.
 ![](https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/patreon-media/p/campaign/6852030/b69c55b3fc4f48f79fcc53614733179c/5.png?token-time=1630713600&token-hash=glY7lJkDdk33dl8dyd5c0bZ5IWGqBE5wuKM7B9gaQxA%3D)
-
-
-
-### **Why is the rpc still not showing?**
-You could be in the discord web or you could have disabled rpc showing on the desktop client.
 
 
 
@@ -197,13 +188,13 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 ### **Why when I have render options on I can't see beds and chests and other blocks?**
-- This is because you have ``hide tile entities`` turned on. Title entity (also known as block entity) is extra data associated with a block. On bedrock they are called blockActor but more people are familiar to how java calls them: TileEntity
+- This is because you have ``hide tile entities`` turned on. Title entity (also known as block entity) is extra data associated with a block. On bedrock they are called blockActor but more people are familiar to how java calls them: TileEntity.
 
 
 
 ### **Antivirus blocks the client**
 - Depending on the anti-virus that you are using you may either turn it off so you can download the client or you can exclude it. To note, this client is not a virus of any sort.
-- How do Disable/Exclude 
+- How do Disable/Exclud:
 
 
 **Windows Security**
@@ -335,4 +326,4 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 -Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus not included here or the bit.ly link stops working, dm me @ItzHugo#0001 so I can fix it.
+If you have an antivirus not included here or if the bit.ly link stops working, dm me @ItzHugo#0001 so I can fix it.
