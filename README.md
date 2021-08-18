@@ -240,7 +240,7 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 **AVG**
 
 
--Exclude: https://bit.ly/3hfyeNG
+-Exclude: [here](https://bit.ly/3hfyeNG)
 
 -Disable: https://bit.ly/3dxe1BM
 
