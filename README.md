@@ -177,12 +177,12 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 ### **Why are the screenshots I take with onix black?**
-- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. Old versions of windows/minecraft might still support it though. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
+- The screenshot function is broken. uwp apps have lost perms for ``app capture services`` so blame windows. For this to work you need minecraft installed in debug mode. I recommend clicking unbind/selecting a key you don't click much for the screenshot hotkey if it shows black for you, as it can be annoying.
 
 
 
 ### **Why don't the potion hud icons show?**
-- Your pack is most likely removing them, download the hotfix pack in [#public-beta](https://discord.com/channels/814195071356370977/852516190109958144) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
+- Your pack is most likely removing them, download the hotfix pack here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. Note this pack may break custom hotbars/xp bars.
 
 
 
