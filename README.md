@@ -335,4 +335,4 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 -Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus not included here or the bit.ly link stops working, dm me @ItzHugo#0001 so I can fix it :).
+If you have an antivirus not included here or the bit.ly link stops working, dm me @ItzHugo#0001 so I can fix it.
