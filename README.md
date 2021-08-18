@@ -16,7 +16,7 @@
 
 - Onix Client injectors/launchers [#download](https://discord.com/channels/814195071356370977/852334369061863464)         
 ### **Why are my rainbow modules not synced/in time with each other**
-- Do .syncrainbow in chat
+- Do ``.syncrainbow`` in chat
 ‎
 ‎
 
@@ -25,11 +25,8 @@
 ### **How do I inject**
 - Select the dll in your chosen injector and press the inject button
 - Some Options:
-Fate Injector: https://github.com/fligger/FateClient
-Project Star: https://discord.gg/J6TwTUVqEc
-Old Horion Injector: https://discord.com/channels/814195071356370977/814195071809093672/830356895243305021
-
-
+Fate Injector [here](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
+Onix injectors/launchers in [#download](https://discord.com/channels/814195071356370977/852334369061863464)
 
 ### **Why is the zoom not working with my hotkey?**
 Right click the module first the hotkey doesn't auto enable it for some reason. This will be fixed in new versions of the client. 
