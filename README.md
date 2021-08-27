@@ -166,6 +166,11 @@ You can try using these settings.
 ![](https://media.discordapp.net/attachments/852356013395148850/877585642660433950/onix2satur.png)
 
 
+### **I Need a screenshot of the onix launcher/injectors**
+# old onix injector
+![](https://media.discordapp.net/attachments/785910725499420696/880842033814704188/unknown.png)
+# onix launcher![](https://media.discordapp.net/attachments/785910725499420696/880842247040557086/unknown.png)
+# onix injector![](https://media.discordapp.net/attachments/785910725499420696/880842342767161364/unknown.png)
 
 ### **Why is there no DLLs in #download Just injectors/launchers?**
 This is mostly because there is a bug with one of the modules that needs fixing and it will crash you lots. You can always find the dll on the github if you need it that badly: [download](https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true).
