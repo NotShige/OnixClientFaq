@@ -206,6 +206,12 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 -Middle click (by clicking the scroll wheel directly down) the change color button or the module in the onix gui.
 
 
+### How to remove the red arrow from minecraft?
+
+Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+by+Mhavin.mcpack/file) 
+and apply it
+
+![](https://images-ext-1.discordapp.net/external/XaTJqnFKpTmVvpZRsIUjibRrS1ChDB8nZCJG0xukL3E/https/hugo.please-end.me/ogp/58nMiUwHd.png)
 
 ### **Antivirus blocks the client**
 - Depending on the anti-virus that you are using you may either turn it off so you can download the client or you can exclude it. To note, this client is not a virus of any sort.
