@@ -34,7 +34,7 @@ Fate Injector [here](https://github.com/fligger/FateInjector/releases/latest/dow
 Onix injectors/launchers in [#download](https://discord.com/channels/814195071356370977/852334369061863464)
 
 ### **Why is the zoom not working with my hotkey?**
-Right click the module first the hotkey doesn't auto enable it. This is not a bug but a feature that allows onix to have a zoom out animation.
+Right click the module first, the hotkey doesn't auto enable it. This is not a bug but a feature that allows onix to have a zoom out animation.
 
 
 
