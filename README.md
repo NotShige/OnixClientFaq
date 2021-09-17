@@ -1,6 +1,6 @@
 # Onix Client FAQ
 
-[Join the onix discord for support, downloads and chats with the other 53k members here:](https://dsc.gg/onix-client) https://dsc.gg/onix-client
+[Join the onix discord for support, downloads and chats with the other 63k members here:](https://dsc.gg/onix-client) https://dsc.gg/onix-client
 
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
@@ -342,4 +342,4 @@ and apply it. The reason why it exists is because the pack maker/porter never up
 
 -Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus not included here or if the bit.ly link stops working, dm me @ItzHugo#0001 so I can fix it.
+If you have an antivirus not included here or if the bit.ly link stops working, dm me @ItzHugo#2308 so I can fix it.
