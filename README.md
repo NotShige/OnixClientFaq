@@ -10,7 +10,13 @@
 - You don't open the onix dll, if you don't know what a dll is, don't use it. All you need to do is open the launcher/injector and click launch/inject then join a world or a server and click L on your keyboard. If you wanna use onix with another injector you may use it but it is not needed for the onix injectors/launchers as they auto download it.
 
 ### When I try to open the onix launcher nothing happens, why does this happen??
-- There is a bug with the main launcher, to fix this use the launcher in the #public-beta. **note: The file in the channel is called and is also said to be an injector but it's really just the onix laucher**
+- There is a bug with the main launcher, to fix this use the launcher in the #public-beta. **Note: The file in the channel is called and is also said to be an injector but it's really just the onix laucher**
+
+### My anti virus says onix is a virus. Is this true??
+- It's a false positive, onix is safe. It says it's a virus because it injects a dll into a proccess and lots of viruses do the same thing but for malicious purposes.
+
+### Is there a way to change/turn off the custom "onix client on top" slash text?
+- No, it's useful so people know the client is injected properly and it's also useful for support reasons if they show a screenshot of their game.
 
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
