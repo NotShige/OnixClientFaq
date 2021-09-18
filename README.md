@@ -127,7 +127,7 @@ do ``.help`` in chat for a list of the onix chat cmds.
 
 
 **How do I downgrade/update?**
-- Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help watch [this video](https://youtu.be/L7joMbeNTX4), or dm me on discord @ItzHugo#0001 for any version mc appx.
+- Do this if your current version isn't supported, download Mclauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher), if you need help watch [this video](https://youtu.be/L7joMbeNTX4), or dm me on discord @ItzHugo#2308 for any version mc appx.
 
 
 
@@ -342,4 +342,4 @@ and apply it. The reason why it exists is because the pack maker/porter never up
 
 -Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus not included here or if the bit.ly link stops working, dm me @ItzHugo#2308 so I can fix it.
+If you have an antivirus not included here or if the bit.ly link stops working, dm me @ItzHugo#2308 so I can fix it. 
