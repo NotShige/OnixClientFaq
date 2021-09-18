@@ -18,6 +18,9 @@
 ### Is there a way to change/turn off the custom "onix client on top" slash text?
 - No, it's useful so people know the client is injected properly and it's also useful for support reasons if they show a screenshot of their game.
 
+### When I inject my game crashes, why does this happen?
+- You are most likely using an older dll, turn off custom dll or use the newest one, if you are not, ask for support on our discord **and please slate as much details as posible.**
+
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
 
