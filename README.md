@@ -2,6 +2,16 @@
 
 [Join the onix discord for support, downloads and chats with the other 63k members here:](https://dsc.gg/onix-client) https://dsc.gg/onix-client
 
+## Non questions:
+### Will there ever be x device supported support??
+- No onix will never support anything other then windows 10/11 64 bit, if you ask/suggest for it, people will most likely be toxic to you.
+
+### When I open the client I get a error saying You are attempting to open a file of type "system file", why does this happen??
+- You don't open the onix dll, if you don't know what a dll is, don't use it. All you need to do is open the launcher/injector and click launch/inject then join a world or a server and click L on your keyboard. If you wanna use onix with another injector you may use it but it is not needed for the onix injectors/launchers as they auto download it.
+
+### When I try to open the onix launcher nothing happens, why does this happen??
+- There is a bug with the main launcher, to fix this use the launcher in the #public-beta. **note: The file in the channel is called and is also said to be an injector but it's really just the onix laucher**
+
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
 
