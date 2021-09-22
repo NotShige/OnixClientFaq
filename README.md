@@ -1,6 +1,6 @@
 # Onix Client FAQ
 
-[Join the onix discord for support, downloads and chats with the other 63k members here:](https://dsc.gg/onix-client) https://dsc.gg/onix-client
+[Join the onix discord for support, downloads and chats with the other 64k members:](https://dsc.gg/onix-client)
 
 ## Non questions:
 ### Will there ever be x device supported support??
