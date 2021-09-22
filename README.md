@@ -4,7 +4,7 @@
 
 ## Non questions:
 ### Will there ever be x device supported support??
-- No onix will never support anything other then windows 10/11 64 bit, if you ask/suggest for it, people will most likely be toxic to you.
+- onix is not supported on anything other then windows 10/11 64 bit currently, if you ask/suggest for it, people will most likely be toxic to you.
 
 ### When I open the client I get a error saying You are attempting to open a file of type "system file", why does this happen??
 - You don't open the onix dll, if you don't know what a dll is, don't use it. All you need to do is open the launcher/injector and click launch/inject then join a world or a server and click L on your keyboard. If you wanna use onix with another injector you may use it but it is not needed for the onix injectors/launchers as they auto download it.
