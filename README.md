@@ -22,8 +22,19 @@
 - You are most likely using an older dll, turn off custom dll or use the newest one, if you are not, ask for support on our discord **and please slate as much details as posible.**
 
 ## How do I get the onix ui??
-[download it here](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack)
+[Download it here.](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack) Thanks to rice#2532 (aka Riceexe) for skidding Hjn's ui.
+```
+Also Remember:
+THIS IS BEING GIVEN AS IS
+THERE WILL BE NO UPDATES,
+THERE WILL BE NO BUG FIXES,
+THERE WILL BE NO SUPPORT
+```
+
 ![](https://media.discordapp.net/attachments/833457218040758272/884252538449326110/unknown.png)
+![](https://media.discordapp.net/attachments/833457218040758272/884252747237568562/unknown.png)
+
+Also on 1.17 the pause menu will be bugged, you can fix it by putting the [pause menu fixer](https://cdn.discordapp.com/attachments/814260749232898058/842613971751665704/PauseMenuFixByRice.mcpack) at the top of your active packs, which is also made by Rice (lol).
 
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
