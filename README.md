@@ -21,6 +21,10 @@
 ### When I inject my game crashes, why does this happen?
 - You are most likely using an older dll, turn off custom dll or use the newest one, if you are not, ask for support on our discord **and please slate as much details as posible.**
 
+## How do I get the onix ui??
+[download it here](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack)
+![](https://media.discordapp.net/attachments/833457218040758272/884252538449326110/unknown.png)
+
 ## If you have any questions, problems, bugs that you would like to report you can go over to:
 [#community-support](https://discord.com/channels/814195071356370977/832745413916360806)
 
