@@ -118,7 +118,7 @@ Toggle sprint/sneak
 Auto GG (could crash)
 Chunk border
 Render Options
-R𝘦𝘢𝘭 Third person nametag
+Real Third person nametag
 Block outline/overlay
 Custom crosshair
 Hitboxes (they dont show through blocks/walls so it's not esp)
