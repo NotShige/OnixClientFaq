@@ -243,7 +243,7 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 ### How to remove the red arrow from minecraft?
 
 Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+by+Mhavin.mcpack/file) 
-and apply it. The reason why it exists is because the pack maker/porter never updated hud_screen.json. https://bugs.mojang.com/browse/MCPE-105882
+and apply it. The reason why it exists is because the pack maker/porter never updated hud_screen.json. [The bug report and discussion is found here.](https://bugs.mojang.com/browse/MCPE-105882)
 
 ![](https://images-ext-1.discordapp.net/external/XaTJqnFKpTmVvpZRsIUjibRrS1ChDB8nZCJG0xukL3E/https/hugo.please-end.me/ogp/58nMiUwHd.png)
 
