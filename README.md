@@ -98,7 +98,7 @@ Do CTRL + L
 
 
 ### **What’s the latest version of the client?**
-- The current latest is version 2.40
+- The current latest is version 2.47
 
 
 
@@ -120,7 +120,7 @@ Render Options
 R𝘦𝘢𝘭 Third person nametag
 Block outline/overlay
 Custom crosshair
-Hitboxes (they dont show through blocks/walls so its not esp)
+Hitboxes (they dont show through blocks/walls so it's not esp)
 Waypoints (.waypoint in mc chat to get clear instructions)
 FPS Counter
 Clock
@@ -140,6 +140,10 @@ Snake
 Potion Hud
 audio subtitles
 player list tab
+hurt color
+light overlay
+TNT timer for 1.17.11 and below
+Creative Tools (cheats that you can use when you are operator)
 Theme editor (Do .Theme in chat)
 .Commands 
 ```
@@ -242,9 +246,28 @@ and apply it. The reason why it exists is because the pack maker/porter never up
 
 ![](https://images-ext-1.discordapp.net/external/XaTJqnFKpTmVvpZRsIUjibRrS1ChDB8nZCJG0xukL3E/https/hugo.please-end.me/ogp/58nMiUwHd.png)
 
+
+### Where can I find the latest change log?
+#### **Changelog for 2.47**
+```
+Added cloud color in environement changer
+Added light level to debug menu
+Keystrokes arrow are now smaller
+Removed fullbright on nethergames
+
+Added hurt color
+Added Light overlay
+Added Creative Tools
+(cheats that you can use when you are operator)
+
+Removed hitboxes for 1.17.30
+Added TNT Timer for 1.17.11 and les
+```
+
+
 ### **Antivirus blocks the client**
 - Depending on the anti-virus that you are using you may either turn it off so you can download the client or you can exclude it. To note, this client is not a virus of any sort.
-- How do Disable/Exclud:
+- How do Disable/Exclude:
 
 
 **Windows Security**
