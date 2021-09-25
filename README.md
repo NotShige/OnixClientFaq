@@ -85,6 +85,7 @@ Do CTRL + L
 - Supported versions:
 
 ```diff
+1.17.30
 1.17.11
 1.17.10
 1.17.2
