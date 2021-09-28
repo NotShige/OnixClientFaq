@@ -116,7 +116,7 @@ freelook
 Environment changer
 Java Debug menu
 Toggle sprint/sneak
-Auto GG (could crash)
+Auto GG (crashes on 1.17.10, to stop this you need to send any msg in chat before winning the game.)
 Chunk border
 Render Options
 Real Third person nametag
