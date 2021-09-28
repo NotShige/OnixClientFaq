@@ -15,7 +15,7 @@
 ### My anti virus says onix is a virus. Is this true??
 - It's a false positive, onix is safe. It says this because it injects a dll into a proccess and lots of viruses do the same thing for malicious purposes.
 
-### Is there a way to change/turn off the custom "onix client on top" slash text?
+### Is there a way to change/turn off the custom "onix client on top" splash text?
 - No, it's useful so people know the client is injected properly and it's also useful for support reasons if they show a screenshot of their game.
 
 ### When I inject my game crashes, why does this happen?
