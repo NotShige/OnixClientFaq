@@ -233,7 +233,7 @@ This is mostly because there is a bug with one of the modules that needs fixing 
 
 
 ### **How do I change the theme of my onix gui?**
-- Do ``.theme`` in chat. To share themes go to your onix client folder and there is a file called ``theme.txt``. To change theme with a premade theme have minecraft closed then delete the ``theme.txt`` from your folder then save the new one in the folder with the file name ``theme.txt`` and reopen minecraft and it should have loaded. At this time there is not a theme manager like the config one (.config) and there probably won't be because onix doesn't wanna make it.
+- Do ``.theme`` in chat. To share themes go to your onix client folder and there should be a file called ``theme.txt``. To change theme with a premade theme: Have minecraft closed then delete the ``theme.txt`` from the onix folder (``%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\``). Then save the new one in the folder with the file name ``theme.txt`` and reopen minecraft and it should have loaded. At this time there is not a theme manager like the config one (.config) and there probably won't be because onix doesn't wanna make it.
 
 
 
