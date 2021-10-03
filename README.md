@@ -117,7 +117,7 @@ freelook
 Environment changer
 Java Debug menu
 Toggle sprint/sneak
-Auto GG (crashes on 1.17.10, to stop this you need to send any msg in chat before winning the game.)
+Auto GG
 Chunk border
 Render Options
 Real Third person nametag
@@ -147,6 +147,7 @@ hurt color
 light overlay
 TNT timer for 1.17.11 and below
 Creative Tools (cheats that you can use when you are operator)
+Item Physics
 Theme editor (Do .Theme in chat)
 .Commands 
 ```
