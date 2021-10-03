@@ -145,7 +145,7 @@ audio subtitles
 player list tab
 hurt color
 light overlay
-TNT timer for 1.17.11 and below
+TNT timer
 Creative Tools (cheats that you can use when you are operator)
 Item Physics
 Theme editor (Do .Theme in chat)
