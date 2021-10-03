@@ -250,20 +250,20 @@ and apply it. The reason why it exists is because the pack maker/porter never up
 
 
 ### Where can I find the latest change log?
-#### **Changelog for 2.47**
+**Changelog for 2.46**
 ```
-Added cloud color in environement changer
-Added light level to debug menu
-Keystrokes arrow are now smaller
-Removed fullbright on nethergames
+Fixed creating waypoints with a space at the end
+Fixed death waypoint for 1.17.30
+Fixed AutoGG for 1.17.10
+Fixed Hurt Color changing not only hurt color
+Fixed creative tools block reach
+Added hitboxes for 1.17.30/32
+Added TNT timer 1.17.30/32
+(And fixed it for 1.16.100)
 
-Added hurt color
-Added Light overlay
-Added Creative Tools
-(cheats that you can use when you are operator)
-
-Removed hitboxes for 1.17.30
-Added TNT Timer for 1.17.11 and les
+Added Item Physics
+Added 1.17.32 support
+```
 ```
 
 
