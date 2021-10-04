@@ -19,7 +19,7 @@
 - No, it's useful so people know the client is injected properly and it's also useful for support reasons if they show a screenshot of their game.
 
 ### When I inject my game crashes, why does this happen?
-- You are most likely using an older dll, turn off custom dll or use the newest one, if you are not, ask for support on our discord **and please slate as much details as posible.**
+- You are most likely using an older dll, turn off custom dll or use the newest one, if you are not, ask for support on our discord **and please state as much details as posible.**
 
 ## How do I get the onix ui??
 [Download it here.](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack) Thanks to rice#2532 (aka Riceexe) for skidding Hjn's ui.
