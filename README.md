@@ -85,6 +85,7 @@ Do CTRL + L
 - Supported versions:
 
 ```diff
+1.17.34
 1.17.32
 1.17.30
 1.17.11
@@ -252,22 +253,19 @@ and apply it. The reason why it exists is because the pack maker/porter never up
 
 
 ### Where can I find the latest change log?
-**Changelog for 2.46**
-```
-Fixed creating waypoints with a space at the end
-Fixed death waypoint for 1.17.30
-Fixed AutoGG for 1.17.10
-Fixed Hurt Color changing not only hurt color
-Fixed creative tools block reach
-Added hitboxes for 1.17.30/32
-Added TNT timer 1.17.30/32
-(And fixed it for 1.16.100)
 
-Added Item Physics
-Added 1.17.32 support
+**69 420 members special, enjoy :)**
 ```
-```
+Fixed a major ui bug
+Fixed some stuff with item physics
+Fixed leaving a world with freecam and joining another one crashing
 
+Fixed adding a waypoint crashing for some people
+
+Fixed zoom sensitivity restoring only after zoom  (now it does it when you start the unzoom animation)
+
+Added support for 1.17.34
+```
 
 ### **Antivirus blocks the client**
 - Depending on the anti-virus that you are using you may either turn it off so you can download the client or you can exclude it. To note, this client is not a virus of any sort.
