@@ -225,9 +225,9 @@ Added support for 1.17.34
 
 **McAfee**
 
--Exclude: [here](https://bit.ly/3oNrNqp)
+- Exclude: [here](https://bit.ly/3oNrNqp)
 
--Disable: [here](https://bit.ly/3g2nbIG)
+- Disable: [here](https://bit.ly/3g2nbIG)
 
 **Avast**
 
