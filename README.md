@@ -44,7 +44,7 @@ Using the UI on versions 1.17 and above will break the pause menu. You can fix t
 - [Fate Injector](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe), if none of the launchers and injectors worked for you.
    
 ### **Why are my rainbow modules not synced/in time with each other?**
-- Do `.syncrainbow` in chat.
+- Say `.syncrainbow` in chat.
 
 ### **Why is the zoom not working with my hotkey?**
 Right click the module first (you can do this with any module to enable it). This is not a bug, but a feature that allows Onix to have a zoom out animation if you have zoom animations enabled.
@@ -54,7 +54,7 @@ Hold CTRL + L.
 
 # The less common questions:
 
-### **What versions does the client support?**
+### **What versions do the client support?**
 - Supported versions:
 
 ```diff
@@ -131,7 +131,7 @@ Say ``.help`` in chat for a list of the Onix commands.
 **How do I downgrade/update?**
 - Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord @ItzHugo#2308 for any version's AppX fille.
 
-### **How do I apply for YouTube Role/Rank (@Youtuber)**
+### **How do I apply for YouTube Role/Rank (@Youtuber)?**
 Requirements:
 - 750+ Subs
 - A video about Onix Client
@@ -201,136 +201,87 @@ Fixed zoom sensitivity restoring only after zoom  (now it does it when you start
 Added support for 1.17.34
 ```
 
-### **My antivirus blocks the client**
+### **My antivirus blocks the client.**
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort.
-- How to Disable/Exclude files in common antiviruses:
 
+## How to Disable/Exclude files in common antiviruses:
 
-**Windows Security**
+**Windows Security (Windows Defender)**
 
+- Exclude: [here](https://bit.ly/3amcRre)
 
-
--Exclude: [here](https://bit.ly/3amcRre)
-
--Disable: [here](https://bit.ly/3dt5Rec)
-
-
+- Disable: [here](https://bit.ly/3dt5Rec)
 
 **Norton**
 
-
-
-
-
--Exclude: [here](https://bit.ly/3t8FqA3)
+- Exclude: [here](https://bit.ly/3t8FqA3)
  
-
--Disable: [here](https://bit.ly/2RptJXE)
-
-
+- Disable: [here](https://bit.ly/2RptJXE)
 
 **Malwarebytes**
 
+- Exclude: [here](https://bit.ly/3s0zmbf)
 
-
--Exclude: [here](https://bit.ly/3s0zmbf)
-
--Disable: [here](https://bit.ly/3dS2D2Y)
-
-
+- Disable: [here](https://bit.ly/3dS2D2Y)
 
 **McAfee**
 
+- Exclude: [here](https://bit.ly/2T5pq4V)
 
-
--Exclude: [here](https://bit.ly/2T5pq4V)
-
--Disable: [here](https://bit.ly/3g2nbIG)
-
-
+- Disable: [here](https://bit.ly/3g2nbIG)
 
 **Avast**
 
+- Exclude: [here](https://bit.ly/3wImlqq)
 
-
--Exclude: [here](https://bit.ly/3wImlqq)
-
--Disable: [here](https://bit.ly/3uEzkrj)
-
-
+- Disable: [here](https://bit.ly/3uEzkrj)
 
 **BitDefender**
-
-
  
--Exclude: [here](https://bit.ly/3d53Kgy)
+- Exclude: [here](https://bit.ly/3d53Kgy)
 
--Disable: [here](https://bit.ly/2RjRDnf)
-
-
+- Disable: [here](https://bit.ly/2RjRDnf)
 
 **Avira**
 
+- Exclude: [here](https://bit.ly/3e1vpOt)
 
-
--Exclude: [here](https://bit.ly/3e1vpOt)
-
--Disable: [here](https://bit.ly/3uL6TrK)
-
-
+- Disable: [here](https://bit.ly/3uL6TrK)
 
 **Quick Heal**
 
+- Exclude: [here](https://bit.ly/3quUbws)
 
-
--Exclude: [here](https://bit.ly/3quUbws)
-
--Disable: [here](https://bit.ly/3AbYIYS)
-
-
+- Disable: [here](https://bit.ly/3AbYIYS)
 
 **AVG**
 
+- Exclude: [here](https://bit.ly/3hfyeNG)
 
-
--Exclude: [here](https://bit.ly/3hfyeNG)
-
--Disable: [here](https://bit.ly/3dxe1BM)
-
-
+- Disable: [here](https://bit.ly/3dxe1BM)
 
 **Webroot**
 
+- Disable: [here](https://bit.ly/36jG1Vw)
 
-
--Disable: [here](https://bit.ly/36jG1Vw)
-
--Exclude: [here](https://bit.ly/3hF8uuf)
-
-
+- Exclude: [here](https://bit.ly/3hF8uuf)
 
 **Panda/Panda Dome**
 
+- Disable: [here](https://bit.ly/3dSmRug)
 
-
--Disable: [here](https://bit.ly/3dSmRug)
-
--Exclude: [here](https://bit.ly/3jPIIpN)
-
-
+- Exclude: [here](https://bit.ly/3jPIIpN)
 
 **Spectrum F-Secure**
 
+- Disable: [here](https://bit.ly/3hGm81B)
 
-
--Disable: [here](https://bit.ly/3hGm81B)
-
--Exclude: [here](https://bit.ly/3ei1Zg4) 
+- Exclude: [here](https://bit.ly/3ei1Zg4) 
 
 **PCMatic**
 
--Disable: [here](https://bit.ly/3ikdGFs)
+- Disable: [here](https://bit.ly/3ikdGFs)
 
--Exclude: [here](https://bit.ly/3lmM701)
+- Exclude: [here](https://bit.ly/3lmM701)
 
 If you have an antivirus that's not included here or if a link stops working, DM me @ItzHugo#2308 so I can fix it. 
