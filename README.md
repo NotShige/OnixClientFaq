@@ -125,10 +125,10 @@ Say ``.help`` in chat for a list of the Onix commands.
 ### **How do I download Onix for mobile?**
 - As the Discord server name suggests, this is only for Windows 10/11 64 bit **ONLY.**
 
-**How do I open the module settings?**
+### **How do I open the module settings?**
 - Press L or Insert in a world or server, then click "Module Settings".
 
-**How do I downgrade/update?**
+### **How do I downgrade/update?**
 - Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord @ItzHugo#2308 for any version's AppX fille.
 
 ### **How do I apply for YouTube Role/Rank (@Youtuber)?**
@@ -138,8 +138,7 @@ Requirements:
 If you meet the requirements, open a ticket.
 
 ### **Do I get beta access if I boost?**
-Not anymore. All you get is [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in #general. 
-Becoming a patron *does* give you beta access.
+Yes, now that the epic games free nitro is over, if you boost our discord you can access to #beta-chat and the releases are in the pins. you also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in #general. 
 
 ### **Minecraftia Font**
 - To enable Minecraftia font, open the module settings and enable "Minecraftia Font" on the right.
@@ -226,9 +225,9 @@ Added support for 1.17.34
 
 **McAfee**
 
-- Exclude: [here](https://bit.ly/2T5pq4V)
+-Exclude: [here](https://bit.ly/3oNrNqp)
 
-- Disable: [here](https://bit.ly/3g2nbIG)
+-Disable: [here](https://bit.ly/3g2nbIG)
 
 **Avast**
 
