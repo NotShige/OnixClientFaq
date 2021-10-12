@@ -148,7 +148,7 @@ Yes, now that the epic games free nitro is over, if you boost our discord you ca
 ![](https://media.discordapp.net/attachments/814195789839466596/876720549710151720/image0.png?width=622&height=622)
 ![](https://cdn.discordapp.com/icons/814195071356370977/a_a1371fc522fd325f99e6a47c07197edd.gif?size=4096)
 ![](https://media.discordapp.net/attachments/852356013395148850/877585642660433950/onix2satur.png)
-![](https://cdn.discordapp.com/icons/814195071356370977/3e916db111e72db6e88b9cca55a3cc41.webp?size=96)
+## **Logo by rares:**![](https://media.discordapp.net/attachments/830753387435786271/897518072456437840/OnixLogoButHalloween.png)
 
 ### **I want a screenshot of the Onix launcher/injectors.**
 # Old Onix Injector:
