@@ -70,6 +70,7 @@ Hold CTRL + L.
 1.16.210
 1.16.201
 1.16.100
+1.16.101
 1.16.40
 ```
 
@@ -192,11 +193,8 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 Fixed a major ui bug
 Fixed some stuff with item physics
 Fixed leaving a world with freecam and joining another one crashing
-
 Fixed adding a waypoint crashing for some people
-
 Fixed zoom sensitivity restoring only after zoom  (now it does it when you start the unzoom animation)
-
 Added support for 1.17.34
 ```
 
