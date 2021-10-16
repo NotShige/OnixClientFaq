@@ -70,6 +70,7 @@ Hold CTRL + L.
 1.16.210
 1.16.201
 1.16.100
+1.16.101
 1.16.40
 ```
 
@@ -129,7 +130,7 @@ Say ``.help`` in chat for a list of the Onix commands.
 - Press L or Insert in a world or server, then click "Module Settings".
 
 ### **How do I downgrade/update?**
-- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord @ItzHugo#2308 for any version's AppX fille.
+- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord [@ItzHugo#2308](https://discord.com/users/731013984710426694) for any version's AppX fille.
 
 ### **How do I apply for YouTube Role/Rank (@Youtuber)?**
 Requirements:
@@ -194,11 +195,8 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 Fixed a major ui bug
 Fixed some stuff with item physics
 Fixed leaving a world with freecam and joining another one crashing
-
 Fixed adding a waypoint crashing for some people
-
 Fixed zoom sensitivity restoring only after zoom  (now it does it when you start the unzoom animation)
-
 Added support for 1.17.34
 ```
 
@@ -285,4 +283,4 @@ Added support for 1.17.34
 
 - Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus that's not included here or if a link stops working, DM me @ItzHugo#2308 so I can fix it. 
+If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it. 
