@@ -281,4 +281,4 @@ Added support for 1.17.34
 
 - Exclude: [here](https://bit.ly/3lmM701)
 
-If you have an antivirus that's not included here or if a link stops working, DM me (@ItzHugo#2308)[https://discord.com/users/731013984710426694] so I can fix it. 
+If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it. 
