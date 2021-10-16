@@ -130,7 +130,7 @@ Say ``.help`` in chat for a list of the Onix commands.
 - Press L or Insert in a world or server, then click "Module Settings".
 
 ### **How do I downgrade/update?**
-- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord @ItzHugo#2308 for any version's AppX fille.
+- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord [@ItzHugo#2308](https://discord.com/users/731013984710426694) for any version's AppX fille.
 
 ### **How do I apply for YouTube Role/Rank (@Youtuber)?**
 Requirements:
