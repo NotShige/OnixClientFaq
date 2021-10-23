@@ -191,7 +191,6 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 
 ### Where can I find the latest changelog?
 
-@everyone 
 **Changelog for Onix Client 2.50 Update**
 
 sorry for being sick, here is your update
