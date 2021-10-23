@@ -58,6 +58,7 @@ Hold CTRL + L.
 - Supported versions:
 
 ```diff
+1.17.40
 1.17.34
 1.17.32
 1.17.30
@@ -190,14 +191,33 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 
 ### Where can I find the latest changelog?
 
-**69 420 members special, enjoy :)**
-```
-Fixed a major ui bug
-Fixed some stuff with item physics
-Fixed leaving a world with freecam and joining another one crashing
-Fixed adding a waypoint crashing for some people
-Fixed zoom sensitivity restoring only after zoom  (now it does it when you start the unzoom animation)
-Added support for 1.17.34
+@everyone 
+**Changelog for Onix Client 2.50 Update**
+
+sorry for being sick, here is your update
+```css
+Remade module system
+Remade .toggle command
+Improved color changers (they have textboxes now)
+
+Fixed last death waypoints not updating
+Fixed CreativeTools Freecam
+Fixed HurtColor with minecart, arrows, armor_stands etc etc
+Fixed a config switcer delete crash
+
+Added Target Block to debug menu
+Added descriptions for modules
+
+(we added a slider to changee the scale of every modules
+if you find that your modules are too big or too small or you,
+want them to match there is a new slider
+in global settings in which you can change the scale of every module
+instead of doing it by hand)
+
+Added Brewing Guide key in potion hud
+(the module does not have to be enabled for the key to work)
+
+Added 1.17.40 support
 ```
 
 ### **My antivirus blocks the client.**
