@@ -57,7 +57,7 @@ Hold CTRL + L.
 ### **What versions do the client support?**
 - Supported versions:
 
-```diff
+```
 1.17.40
 1.17.34
 1.17.32
@@ -80,7 +80,7 @@ Hold CTRL + L.
 
 ### **What features are in the client?**
 - We currently have tons of features, which are:
-```diff
+```
 Zoom
 Fullbright
 Freelook (360 perspective)
@@ -131,7 +131,7 @@ Say ``.help`` in chat for a list of the Onix commands.
 - Press L or Insert in a world or server, then click "Module Settings".
 
 ### **How do I downgrade/update?**
-- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord [@ItzHugo#2308](https://discord.com/users/731013984710426694) for any version's AppX fille.
+- Do this if your current version isn't supported. Download MCLauncher from [here](https://github.com/MCMrARM/mc-w10-version-launcher). If you need help watch [this video](https://youtu.be/L7joMbeNTX4), or DM me on Discord [(@ItzHugo#2308)](https://discord.com/users/731013984710426694) for any version's AppX fille.
 
 ### **How do I apply for YouTube Role/Rank (@Youtuber)?**
 Requirements:
@@ -140,7 +140,7 @@ Requirements:
 If you meet the requirements, open a ticket.
 
 ### **Do I get beta access if I boost?**
-Yes, now that the Epic Games Nitro promotion is over, if you boost our discord you get access to [#beta-announcments](https://discord.com/channels/814195071356370977/900851856857788486) and [#beta-chat](https://discord.com/channels/814195071356370977/900851856857788486). You also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in #general. 
+Yes, now that the Epic Games Nitro promotion is over, if you boost our discord you get access to [#beta-announcments](https://discord.com/channels/814195071356370977/900851856857788486) and [#beta-chat](https://discord.com/channels/814195071356370977/900851856857788486). You also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in [#général](https://discord.com/channels/814195071356370977/852356013395148850). 
 
 ### **Minecraftia Font**
 - To enable Minecraftia font, open the module settings and enable "Minecraftia Font" on the right.
