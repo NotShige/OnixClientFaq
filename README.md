@@ -140,7 +140,7 @@ Requirements:
 If you meet the requirements, open a ticket.
 
 ### **Do I get beta access if I boost?**
-Yes, now that the epic games free nitro is over, if you boost our discord you can access to #beta-chat and the releases are in the pins. you also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in #general. 
+Yes, now that the Epic Games Nitro promotion is over, if you boost our discord you get access to [#beta-announcments](https://discord.com/channels/814195071356370977/900851856857788486) and [#beta-chat](https://discord.com/channels/814195071356370977/900851856857788486). You also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in #general. 
 
 ### **Minecraftia Font**
 - To enable Minecraftia font, open the module settings and enable "Minecraftia Font" on the right.
@@ -194,7 +194,7 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 **Changelog for Onix Client 2.50 Update**
 
 sorry for being sick, here is your update
-```css
+```
 Remade module system
 Remade .toggle command
 Improved color changers (they have textboxes now)
