@@ -3,7 +3,7 @@
 [Join the Onix Discord for support and the latest downloads for the client.](https://discord.gg/onixclient)
 
 ## Requirements:
-### Dependencies and prerequisited required to use this Client:
+### Dependencies and prerequisites required to use this Client:
 1. brain
 
 ## The most common questions:
