@@ -7,10 +7,7 @@
 - Onix is not supported on anything other than windows 10/11 64 bit currently. If you ask for/suggest it, people will most likely be toxic to you.
 
 ### When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
-- You downloaded the Onix Client DLL, which is only for use with other injectors. If you don't know what a DLL file is, **don't use it**. You should download the injector or the launcher from the [#download](https://discord.com/channels/814195071356370977/852334369061863464) channel, and click "Launch" or "Inject" to use the client. If you want to use Onix with another injector, you may use it. It is not needed for the Onix injectors/launchers as they auto download the DLL.
-
-### When I opened the Onix launcher, nothing happens. Why is this the case?
-- Currently, there is a bug with the main launcher. For now, use the launcher in the [#public-beta](https://discord.com/channels/814195071356370977/764114686139826196) channel.
+- You downloaded the Onix Client DLL, which is only for use with other injectors. If you don't know what a DLL file is, **don't use it**. You should download the launcher from the [#download](https://discord.com/channels/814195071356370977/852334369061863464) channel, and click "Launch" or "Inject" to use the client. If you want to use Onix with another injector, you may use it. It is not needed for the Onix injectors/launchers as they auto download the DLL.
 
 ### My anti virus says Onix is malware. Is this true?
 - We can assure you that Onix client is safe. It gets marked as a virus because it injects a DLL into a process. Lots of viruses do the same thing for malicious purposes.
@@ -21,6 +18,35 @@
 
 ### When I inject, my game crashes. Why does this happen?
 - Your game most likely updated to a version that Onix Client does not currently support. You might also be using an older DLL with the "Custom DLL" option enabled in the launcher/injector. If both of these potential causes aren't the case, you can ask for support on our Discord, either by asking in [#community-support](https://discord.com/channels/814195071356370977/832745413916360806) or [making a support ticket.](https://discord.com/channels/814195071356370977/814277715594838087/892132983065161829) **Please state as much details as possible.**
+
+## Launcher error messages:
+
+### Architecture Error
+![](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
+- You have a 32-bit version of Minecraft. This could come in the form of "FPS boosting" AppX files.
+### Solution:
+- Uninstall Minecraft and redownload it from the Microsoft Store, which will download the 64-bit version.
+
+### Unsupported Version
+![](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
+- Like the error message says, you have a version of Minecraft that isn't supported. A full list of supported versions exists in the FAQ.
+### Solution:
+There are 2 possible solutions, depending on your case.
+- If the game recently updated, wait for Onix Client to support your version in a future update.
+- Otherwise, switch to a supported version. The FAQ shows you how to do this later on.
+
+### Injection Error
+![](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
+- An unknown error occurred while injecting Onix Client. This could be due to your antivirus.
+### Solution:
+- Currently, there is no definite solution for this error. You could make a support ticket on our Discord and we'll try to help you.
+
+### Launch Error (no screenshot, rare error message)
+- An unknown error occurred while launching.
+### Solution:
+- Make sure you have **Minecraft for Windows 10** installed, and;
+- Disable your antivirus if you haven't already.
+- If you meet both of these conditions, there is no solution to this error.
 
 ## How do I get the Onix UI?
 [Download it here.](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack) Thanks to rice#2532 (aka Riceexe) for stealing HJN's ui.
@@ -58,6 +84,7 @@ Hold CTRL + L.
 - Supported versions:
 
 ```
+1.17.41
 1.17.40
 1.17.34
 1.17.32
@@ -76,7 +103,7 @@ Hold CTRL + L.
 ```
 
 ### **What’s the latest version of the client?**
-- The current latest is version 2.47.
+- The current latest is version 2.51.
 
 ### **What features are in the client?**
 - We currently have tons of features, which are:
@@ -120,6 +147,7 @@ Creative Tools (cheats that you can use when you are operator)
 Item Physics
 Theme Editor (say .theme in chat)
 .Commands 
+Module Search
 ```
 
 Say ``.help`` in chat for a list of the Onix commands.
@@ -153,13 +181,11 @@ Yes, now that the Epic Games Nitro promotion is over, if you boost our discord y
 ## **Logo and banner by RaresKid#2478:**![](https://media.discordapp.net/attachments/830753387435786271/897518072456437840/OnixLogoButHalloween.png)
 ![](https://media.discordapp.net/attachments/830753387435786271/897521586121359360/Banner.png)
 
-### **I want a screenshot of the Onix launcher/injectors.**
-# Old Onix Injector:
-![](https://media.discordapp.net/attachments/785910725499420696/880842033814704188/unknown.png)
-# Onix Launcher:
-![](https://media.discordapp.net/attachments/785910725499420696/880842247040557086/unknown.png)
-# Onix Injector:
+### **I want a screenshot of the Onix Launcher/injectors.**
+# Injector by Onix:
 ![](https://media.discordapp.net/attachments/785910725499420696/880842342767161364/unknown.png)
+# Onix Launcher:
+![](https://user-images.githubusercontent.com/64127681/139374739-a69c085f-ce7b-4e17-93d6-0cfdd6437d0f.png)
 
 ### **Why is there no DLL in #download?**
 This is mostly because there is a major bug with one of the modules that *will* crash your game. You can always find the DLL on GitHub if you need it that badly: https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true.
@@ -167,7 +193,7 @@ This is mostly because there is a major bug with one of the modules that *will* 
 ### **Why don't the Potion HUD icons show?**
 - One of your packs most likely removed them. Download the hotfix pack [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. This pack may break custom hotbars/XP bars, as it uses the same layer as them.
 
-### **Why does the Onix launcher/injector give me a .net framework error when I open it?**
+### **Why does the Onix launcher/injector give me a .NET Framework error when I open it?**
 - Make sure both the [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net48) and [Visual C](https://aka.ms/vs/16/release/vc_redist.x64.exe) runtimes are installed, then try to reopen it.
 
 ### **When I have render options on, I can't see beds and chests and other blocks.**
@@ -175,8 +201,6 @@ This is mostly because there is a major bug with one of the modules that *will* 
 
 ### **How do I change the theme of my Onix GUI?**
 - Say ``.theme`` in chat to reveal the theme editor. To share themes, go to your Onix Client folder and find the file called ``theme.txt``. To use a theme made by someone else, make sure Minecraft is closed, then delete the ``theme.txt`` file from the Onix folder (``%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\``) and replace it with your desired theme. There isn't a theme manager like the config one (.config) and there probably never will be because Onix doesn't want to make it.
-
-
 
 ### **How do I reset a color/module?**
 -Middle click the change color button or the module in the Onix GUI. You can middle click by pressing the scroll wheel down, or clicking with 3 fingers on a trackpad.
@@ -191,33 +215,11 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 
 ### Where can I find the latest changelog?
 
-**Changelog for Onix Client 2.50 Update**
+we added support for 1.17.41 and added a searchbar thing
+minecraft updating too much for real updates rn sorry
 
-sorry for being sick, here is your update
-```
-Remade module system
-Remade .toggle command
-Improved color changers (they have textboxes now)
-
-Fixed last death waypoints not updating
-Fixed CreativeTools Freecam
-Fixed HurtColor with minecart, arrows, armor_stands etc etc
-Fixed a config switcer delete crash
-
-Added Target Block to debug menu
-Added descriptions for modules
-
-(we added a slider to changee the scale of every modules
-if you find that your modules are too big or too small or you,
-want them to match there is a new slider
-in global settings in which you can change the scale of every module
-instead of doing it by hand)
-
-Added Brewing Guide key in potion hud
-(the module does not have to be enabled for the key to work)
-
-Added 1.17.40 support
-```
+we also remade a new launcher if you want to give it a try in [#❗❗❗download❗❗❗](https://discord.com/channels/814195071356370977/852334369061863464) 
+have a good rest of your life
 
 ### **My antivirus blocks the client.**
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort.
