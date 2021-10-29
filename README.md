@@ -24,12 +24,14 @@
 ### Architecture Error
 ![](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
 - You have a 32-bit version of Minecraft. This could come in the form of "FPS boosting" AppX files.
+
 ### Solution:
 - Uninstall Minecraft and redownload it from the Microsoft Store, which will download the 64-bit version.
 
 ### Unsupported Version
 ![](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
 - Like the error message says, you have a version of Minecraft that isn't supported. A full list of supported versions exists in the FAQ.
+
 ### Solution:
 There are 2 possible solutions, depending on your case.
 - If the game recently updated, wait for Onix Client to support your version in a future update.
@@ -38,11 +40,13 @@ There are 2 possible solutions, depending on your case.
 ### Injection Error
 ![](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
 - An unknown error occurred while injecting Onix Client. This could be due to your antivirus.
+
 ### Solution:
 - Currently, there is no definite solution for this error. You could make a support ticket on our Discord and we'll try to help you.
 
 ### Launch Error (no screenshot, rare error message)
 - An unknown error occurred while launching.
+
 ### Solution:
 - Make sure you have **Minecraft for Windows 10** installed, and;
 - Disable your antivirus if you haven't already.
