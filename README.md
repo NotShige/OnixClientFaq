@@ -13,6 +13,22 @@
 - We can assure you that Onix client is safe. It gets marked as a virus because it injects a DLL into a process. Lots of viruses do the same thing for malicious purposes.
 - Onix only injects 1 DLL into 1 process (the Onix DLL -> Minecraft), while DLL injection based viruses inject into every program.
 
+### "This app can't run on your PC"
+Check the launcher's file size. (you can do this in file explorer)
+- If it's 0 bytes, turn off your antivirus and redownload the launcher.
+- If it's **NOT** 0 bytes, you either have a 32-bit installation of Windows or a 32-bit computer.
+
+### How to check if your PC is 32 bit:
+Right click the start menu and click "System".
+
+Look at your system type under device specifications.
+
+![](https://user-images.githubusercontent.com/64127681/140582244-70a847bf-a2fb-41dc-ae0c-320090bbf23e.png)
+- If it says "64-bit operating system, x64-based processor", you can use Onix Client.
+- If it says "32-bit operating system, x64-based processor", you need to install the 64-bit version of Windows. We will not be showing you how to do that here, so go do your own research.
+- If it says "32-bit operating system, ***x86***-based processor", unfortunately, you can't use Onix Client.
+- If your PC is ARM or Qualcomm based, you can't use Onix Client either.
+
 ### Is there a way to change/turn off the custom "OnixClient on top!" splash text?
 - No, because it's so people know the client is injected properly. It's also useful for support reasons if a person in need of help shows a screenshot of their game.
 
