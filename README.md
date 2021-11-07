@@ -2,10 +2,6 @@
 
 [Join the Onix Discord for support and the latest downloads for the client.](https://discord.gg/onixclient)
 
-## Requirements:
-### Dependencies and prerequisites required to use this Client:
-1. brain
-
 ## The most common questions:
 ### Will there ever be support for *x* device?
 - Onix is not supported on anything other than windows 10/11 64 bit currently. If you ask for/suggest it, people will most likely be toxic to you.
