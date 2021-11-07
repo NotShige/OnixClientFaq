@@ -39,6 +39,11 @@ Look at your system type under device specifications.
 ### When I inject, my game crashes. Why does this happen?
 - Your game most likely updated to a version that Onix Client does not currently support. You might also be using an older DLL with the "Custom DLL" option enabled in the launcher/injector. If both of these potential causes aren't the case, you can ask for support on our Discord, either by asking in [#community-support](https://discord.com/channels/814195071356370977/832745413916360806) or [making a support ticket.](https://discord.com/channels/814195071356370977/814277715594838087/892132983065161829) **Please state as much details as possible.**
 
+### Why does it say "as nobody (HOW)" on Discord instead of my Gamertag?
+![image](https://user-images.githubusercontent.com/20384051/140652515-1e2330c4-a7ee-48bc-a895-c4a8d27aa2b0.png)
+- You need Xbox Console Companion installed in your PC. You can find it on the [Microsoft Store.](https://www.microsoft.com/en-us/p/xbox-console-companion/9wzdncrfjbd8#activetab=pivot:overviewtab) Afterwards, login to the Console Companion and your Gamertag should show up.
+- If you already have the Console Companion install but it still doesn't show up, log off and log back in.
+
 ## Launcher error messages:
 
 ### Architecture Error
