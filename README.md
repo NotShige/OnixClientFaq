@@ -289,9 +289,7 @@ have a good rest of your life
 
 **Avira**
 
-- Exclude: [here](https://bit.ly/3e1vpOt)
-
-- Disable: [here](https://bit.ly/3uL6TrK)
+Avira will not let you use Onix Client, even if it's disabled. We recommend you uninstall Avira until we get this issue sorted out with them.
 
 **Quick Heal**
 
