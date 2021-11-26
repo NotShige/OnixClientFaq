@@ -247,7 +247,7 @@ we also remade a new launcher if you want to give it a try in [#❗❗❗downloa
 have a good rest of your life
 
 ### **My antivirus blocks the client.**
-- Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort.
+- Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort. The launcher is open source; the source can be viewed [here](https://github.com/notcarlton/OnixLauncher) if you want to compile it yourself or check if the code is safe.
 
 ## How to Disable/Exclude files in common antiviruses:
 
