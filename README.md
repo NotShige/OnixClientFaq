@@ -44,7 +44,7 @@ Look at your system type under device specifications.
 
 ### Architecture Error
 ![](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
-- You have a 32-bit version of Minecraft. This could come in the form of "FPS boosting" AppX files.
+- You have a 32-bit version of Minecraft. This could come in the form of "FPS boosting" or "Lag Free" AppX files.
 
 ### Solution:
 - Uninstall Minecraft and redownload it from the Microsoft Store, which will download the 64-bit version.
@@ -213,7 +213,7 @@ Yes, now that the Epic Games Nitro promotion is over, if you boost our discord y
 ![](https://user-images.githubusercontent.com/64127681/139374739-a69c085f-ce7b-4e17-93d6-0cfdd6437d0f.png)
 
 ### **Why is there no DLL in #download?**
-This is mostly because there is a major bug with one of the modules that *will* crash your game. You can always find the DLL on GitHub if you need it that badly: https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true.
+This is mostly because there is a major bug with one of the modules that *will* crash your game. You can always find the DLL on GitHub if you need it that badly: [Here](https://github.com/bernarddesfosse/onixclientautoupdate/blob/main/OnixClient.dll?raw=true).
 
 ### **Why don't the Potion HUD icons show?**
 - One of your packs most likely removed them. Download the hotfix pack [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack) and put it at the top of your pack list. This pack may break custom hotbars/XP bars, as it uses the same layer as them.
