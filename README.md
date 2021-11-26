@@ -260,7 +260,7 @@ have a good rest of your life
 **Norton**
 
 - Exclude: [here](https://bit.ly/3t8FqA3)
- 
+
 - Disable: [here](https://bit.ly/2RptJXE)
 
 **Malwarebytes**
