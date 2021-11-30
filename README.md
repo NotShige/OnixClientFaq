@@ -205,6 +205,9 @@ Yes, now that the Epic Games Nitro promotion is over, if you boost our discord y
 ![](https://media.discordapp.net/attachments/852356013395148850/877585642660433950/onix2satur.png)
 ## **Logo and banner by RaresKid#2478:**![](https://media.discordapp.net/attachments/830753387435786271/897518072456437840/OnixLogoButHalloween.png)
 ![](https://media.discordapp.net/attachments/830753387435786271/897521586121359360/Banner.png)
+![](https://media.discordapp.net/attachments/853312425025208360/915335128354525234/0A9ADA86-5219-11EC-A52F-02347A3488E7.gif)
+![](https://media.discordapp.net/attachments/853312425025208360/915335325054808074/Onix_Christmas_Logo_Finale_V2_thingy.png?width=989&height=989)
+![](https://media.discordapp.net/attachments/853312425025208360/915335305450639430/Final_Banner_Onix.png?width=1758&height=989)
 
 ### **I want a screenshot of the Onix Launcher/injectors.**
 # Injector by Onix:
