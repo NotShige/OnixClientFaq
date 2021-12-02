@@ -1,7 +1,9 @@
 # Onix Client FAQ
 
-[![Official Onix Client discord](https://img.shields.io/badge/Join%E2%80%8E-Official%20discord-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/onixclient)
-[![Dwonload](https://img.shields.io/badge/Download-on%20Discord-lightgrey?style=flat-square)](https://discord.com/channels/814195071356370977/852334369061863464/903427746301112351)
+[![Download](https://img.shields.io/badge/Client%20Download:-%20Join%20Our%20Discord:-lightgrey?style=flat-square)](![image](https://discord.gg/onixclient))
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/OnixClient)](http://discord.gg/OnixClient)
+
 
 ## The most common questions:
 ### Will there ever be support for *x* device?
