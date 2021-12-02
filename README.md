@@ -1,8 +1,8 @@
 # Onix Client FAQ
 
-[![Download](https://img.shields.io/badge/Client%20Download:-%20Join%20Our%20Discord:-lightgrey?style=flat-square)](![image](https://discord.gg/onixclient))
+[![Download](https://img.shields.io/badge/Download%E2%80%8E-On%20Discord:-blue?style=flat-square&logo=discord&logoColor=white)](![image](https://discord.gg/onixclient))
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/OnixClient)](http://discord.gg/OnixClient)
+[![Join our Discord server!](https://invidget.switchblade.xyz/OnixClient?theme=light)](http://discord.gg/OnixClient)
 
 
 ## The most common questions:
