@@ -1,6 +1,6 @@
 # Onix Client FAQ
 
-[![Download](https://img.shields.io/badge/Download%E2%80%8E-On%20Discord:-blue?style=flat-square&logo=discord&logoColor=white)](![image](https://discord.gg/onixclient))
+[![Download](https://img.shields.io/badge/Download%E2%80%8E-On%20Discord:-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/onixclient)
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/OnixClient?theme=light)](http://discord.gg/OnixClient)
 
