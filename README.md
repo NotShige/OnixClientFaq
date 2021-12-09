@@ -112,6 +112,8 @@ Hold CTRL + L.
 - Supported versions:
 
 ```
+1.18.1
+1.18.0
 1.17.41
 1.17.40
 1.17.34
@@ -125,6 +127,7 @@ Hold CTRL + L.
 1.16.220
 1.16.210
 1.16.201
+1.16.200
 1.16.100
 1.16.101
 1.16.40
@@ -246,11 +249,26 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 
 ### Where can I find the latest changelog?
 
-we added support for 1.17.41 and added a searchbar thing
-minecraft updating too much for real updates rn sorry
+**Changelog for OnixClient 2.65**
+Did optimizations and improvements to almost all modules
+Changed the config system (old configs stay compatible, loading them will migrate them to the new system)
 
-we also remade a new launcher if you want to give it a try in [#❗❗❗download❗❗❗](https://discord.com/channels/814195071356370977/852334369061863464) 
-have a good rest of your life
+Added clientside nick (.nick <name> and .resetnick)
+creative tools autoclicker
+.signfix cmd, makes color like it was b4 1.16.220 - use at own risk
+sync all rainbow option in global settings
+direction hud now is a world compass + added slow mode
+finished item physics (slabs, water and stuff)
+added things to debug menu (ram, day counter, dimension, direction name ex. NORTH)
+custom crosshairs are now better optimized 
+keystrokes are now better optimized and fixed right cps text with scale
+Waypoints now have a "Show distance in all axis" setting, showing distance in a line if disabled
+
+updated launcher too to fix some bugs & add some feature
+u need to redownload for it to update
+added 1.16.200 support back
+added 1.18.0   support
+added 1.18.1   support
 
 ### **My antivirus blocks the client.**
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort. The launcher is open source; the source code can be viewed [here](https://github.com/notcarlton/OnixLauncher) if you want to compile it yourself or check if the code is safe.
