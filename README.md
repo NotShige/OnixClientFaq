@@ -346,7 +346,7 @@ added 1.18.1   support
 </tbody>
 </table>
 
-Note on **Avira**:<br>
+**Info On Avira AntiVirus:**:<br>
 Avira will not let you use Onix Client, even if it's disabled. We recommend you uninstall Avira until we get this issue sorted out with them.
 
 If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it. 
