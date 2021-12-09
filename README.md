@@ -274,81 +274,79 @@ added 1.18.1   support
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort. The launcher is open source; the source code can be viewed [here](https://github.com/notcarlton/OnixLauncher) if you want to compile it yourself or check if the code is safe.
 
 ## How to Disable/Exclude files in common antiviruses:
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>Antivirus</strong></th>
+<th style="text-align:center"><strong>Exclude</strong></th>
+<th style="text-align:center"><strong>Disable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Windows defender</td>
+<td style="text-align:center"><a href="https://bit.ly/3amcRre">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dt5Rec">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Norton</td>
+<td style="text-align:center"><a href="https://bit.ly/3t8FqA3">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/2RptJXE">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Malwarebytes</td>
+<td style="text-align:center"><a href="https://bit.ly/3s0zmbf">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dS2D2Y">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">McAfee</td>
+<td style="text-align:center"><a href="https://bit.ly/3oNrNqp">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3g2nbIG">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Avast</td>
+<td style="text-align:center"><a href="https://bit.ly/3wImlqq">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3uEzkrj">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Bitdefender</td>
+<td style="text-align:center"><a href="https://bit.ly/3d53Kgy">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/2RjRDnf">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Quick heal</td>
+<td style="text-align:center"><a href="https://bit.ly/3quUbws">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3AbYIYS">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">AVG</td>
+<td style="text-align:center"><a href="https://bit.ly/3hfyeNG">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dxe1BM">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Webroot</td>
+<td style="text-align:center"><a href="https://bit.ly/3hF8uuf">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/36jG1Vw">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Panda/Panda Dome</td>
+<td style="text-align:center"><a href="https://bit.ly/3jPIIpN">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dSmRug">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Spectrum F-Secure</td>
+<td style="text-align:center"><a href="https://bit.ly/3ei1Zg4">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3hGm81B">here</a></td>
+</tr>
+<tr>
+<td style="text-align:center">PCMatic</td>
+<td style="text-align:center"><a href="https://bit.ly/3lmM701">here</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3ikdGFs">here</a></td>
+</tr>
+</tbody>
+</table>
 
-**Windows Security (Windows Defender)**
-
-- Exclude: [here](https://bit.ly/3amcRre)
-
-- Disable: [here](https://bit.ly/3dt5Rec)
-
-**Norton**
-
-- Exclude: [here](https://bit.ly/3t8FqA3)
-
-- Disable: [here](https://bit.ly/2RptJXE)
-
-**Malwarebytes**
-
-- Exclude: [here](https://bit.ly/3s0zmbf)
-
-- Disable: [here](https://bit.ly/3dS2D2Y)
-
-**McAfee**
-
-- Exclude: [here](https://bit.ly/3oNrNqp)
-
-- Disable: [here](https://bit.ly/3g2nbIG)
-
-**Avast**
-
-- Exclude: [here](https://bit.ly/3wImlqq)
-
-- Disable: [here](https://bit.ly/3uEzkrj)
-
-**BitDefender**
- 
-- Exclude: [here](https://bit.ly/3d53Kgy)
-
-- Disable: [here](https://bit.ly/2RjRDnf)
-
-**Avira**
-
+Note on **Avira**:<br>
 Avira will not let you use Onix Client, even if it's disabled. We recommend you uninstall Avira until we get this issue sorted out with them.
-
-**Quick Heal**
-
-- Exclude: [here](https://bit.ly/3quUbws)
-
-- Disable: [here](https://bit.ly/3AbYIYS)
-
-**AVG**
-
-- Exclude: [here](https://bit.ly/3hfyeNG)
-
-- Disable: [here](https://bit.ly/3dxe1BM)
-
-**Webroot**
-
-- Disable: [here](https://bit.ly/36jG1Vw)
-
-- Exclude: [here](https://bit.ly/3hF8uuf)
-
-**Panda/Panda Dome**
-
-- Disable: [here](https://bit.ly/3dSmRug)
-
-- Exclude: [here](https://bit.ly/3jPIIpN)
-
-**Spectrum F-Secure**
-
-- Disable: [here](https://bit.ly/3hGm81B)
-
-- Exclude: [here](https://bit.ly/3ei1Zg4) 
-
-**PCMatic**
-
-- Disable: [here](https://bit.ly/3ikdGFs)
-
-- Exclude: [here](https://bit.ly/3lmM701)
 
 If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it. 
