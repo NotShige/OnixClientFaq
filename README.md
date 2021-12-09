@@ -274,81 +274,22 @@ added 1.18.1   support
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort. The launcher is open source; the source code can be viewed [here](https://github.com/notcarlton/OnixLauncher) if you want to compile it yourself or check if the code is safe.
 
 ## How to Disable/Exclude files in common antiviruses:
+**Antivirus**|**Exclude**|**Disable**
+:-----:|:-----:|:-----:
+Windows defender|[here](https://bit.ly/3amcRre)|[here](https://bit.ly/3dt5Rec)
+Norton|[here](https://bit.ly/3t8FqA3)|[here](https://bit.ly/2RptJXE)
+Malwarebytes|[here](https://bit.ly/3s0zmbf)|[here](https://bit.ly/3dS2D2Y)
+McAfee|[here](https://bit.ly/3oNrNqp)|[here](https://bit.ly/3g2nbIG)
+Avast|[here](https://bit.ly/3wImlqq)|[here](https://bit.ly/3uEzkrj)
+Bitdefender|[here](https://bit.ly/3d53Kgy)|[here](https://bit.ly/2RjRDnf)
+Quick heal|[here](https://bit.ly/3quUbws)|[here](https://bit.ly/3AbYIYS)
+AVG|[here](https://bit.ly/3hfyeNG)|[here](https://bit.ly/3dxe1BM)
+Webroot|[here](https://bit.ly/3hF8uuf)|[here](https://bit.ly/36jG1Vw)
+Panda/Panda Dome|[here](https://bit.ly/3jPIIpN)|[here](https://bit.ly/3dSmRug)
+Spectrum F-Secure|[here](https://bit.ly/3ei1Zg4)|[here](https://bit.ly/3hGm81B)
+PCMatic|[here](https://bit.ly/3lmM701)|[here](https://bit.ly/3ikdGFs)
 
-**Windows Security (Windows Defender)**
-
-- Exclude: [here](https://bit.ly/3amcRre)
-
-- Disable: [here](https://bit.ly/3dt5Rec)
-
-**Norton**
-
-- Exclude: [here](https://bit.ly/3t8FqA3)
-
-- Disable: [here](https://bit.ly/2RptJXE)
-
-**Malwarebytes**
-
-- Exclude: [here](https://bit.ly/3s0zmbf)
-
-- Disable: [here](https://bit.ly/3dS2D2Y)
-
-**McAfee**
-
-- Exclude: [here](https://bit.ly/3oNrNqp)
-
-- Disable: [here](https://bit.ly/3g2nbIG)
-
-**Avast**
-
-- Exclude: [here](https://bit.ly/3wImlqq)
-
-- Disable: [here](https://bit.ly/3uEzkrj)
-
-**BitDefender**
- 
-- Exclude: [here](https://bit.ly/3d53Kgy)
-
-- Disable: [here](https://bit.ly/2RjRDnf)
-
-**Avira**
-
+Note on **Avira**:<br>
 Avira will not let you use Onix Client, even if it's disabled. We recommend you uninstall Avira until we get this issue sorted out with them.
-
-**Quick Heal**
-
-- Exclude: [here](https://bit.ly/3quUbws)
-
-- Disable: [here](https://bit.ly/3AbYIYS)
-
-**AVG**
-
-- Exclude: [here](https://bit.ly/3hfyeNG)
-
-- Disable: [here](https://bit.ly/3dxe1BM)
-
-**Webroot**
-
-- Disable: [here](https://bit.ly/36jG1Vw)
-
-- Exclude: [here](https://bit.ly/3hF8uuf)
-
-**Panda/Panda Dome**
-
-- Disable: [here](https://bit.ly/3dSmRug)
-
-- Exclude: [here](https://bit.ly/3jPIIpN)
-
-**Spectrum F-Secure**
-
-- Disable: [here](https://bit.ly/3hGm81B)
-
-- Exclude: [here](https://bit.ly/3ei1Zg4) 
-
-**PCMatic**
-
-- Disable: [here](https://bit.ly/3ikdGFs)
-
-- Exclude: [here](https://bit.ly/3lmM701)
 
 If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it. 
