@@ -111,6 +111,7 @@ Hold CTRL + L.
 - Supported versions:
 
 ```
+1.18.2
 1.18.1
 1.18.0
 1.17.41
@@ -249,26 +250,17 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 
 ### Where can I find the latest changelog?
 
-**Changelog for OnixClient 2.65**
-```Did optimizations and improvements to almost all modules
-Changed the config system (old configs stay compatible, loading them will migrate them to the new system)
-
-Added clientside nick (.nick <name> and .resetnick)
-creative tools autoclicker
-.signfix cmd, makes color like it was b4 1.16.220 - use at own risk
-sync all rainbow option in global settings
-direction hud now is a world compass + added slow mode
-finished item physics (slabs, water and stuff)
-added things to debug menu (ram, day counter, dimension, direction name ex. NORTH)
-custom crosshairs are now better optimized 
-keystrokes are now better optimized and fixed right cps text with scale
-Waypoints now have a "Show distance in all axis" setting, showing distance in a line if disabled
-
-updated launcher too to fix some bugs & add some feature
-u need to redownload for it to update
-added 1.16.200 support back
-added 1.18.0   support
-added 1.18.1   support
+**Changelog for OnixClient 2.69**
+```
+- various fixes for Item Physics in version 1.18.0
+- killing mobs or reloading item entities will still cause them to spin forever as if they were still in air, this is a 1.18 issue where items are actually flying over the ground.
+- various bug fixes for Keystrokes
+- limited the Creative Tools autoclicker to 200 CPS
+- custom crosshair will now disable itself if an invalid crosshair is selected
+- improved the description for Waypoint and Audio Subtitles
+- fixed an issue where loading the modules far from the corners reposition to incorrect spots
+- fixed an issue when migrating a config from the previous update that would cause a blank gui 
+- added support for 1.18.2
 ```
 
 ### **My antivirus blocks the client.**
