@@ -307,6 +307,11 @@ and apply it. The reason why it exists is because the pack maker/porter of one o
 <td style="text-align:center"><a href="https://bit.ly/2RjRDnf">Disable</a></td>
 </tr>
 <tr>
+<td style="text-align:center">Kaspersky Internet Security</td>
+<td style="text-align:center"><a href="https://bit.ly/33viG54">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3GVMfv0">Disable</a></td>
+</tr>
+<tr>
 <td style="text-align:center">Quick Heal</td>
 <td style="text-align:center"><a href="https://bit.ly/3quUbws">Exclude</a></td>
 <td style="text-align:center"><a href="https://bit.ly/3AbYIYS">Disable</a></td>
