@@ -6,10 +6,11 @@
 
 ## The most common questions:
 ### Will there ever be support for *x* device?
-- Onix is not supported on anything other than windows 10/11 64 bit currently. If you ask for/suggest it, people will most likely be toxic to you.
+- Onix Client is not supported on anything other than windows 10/11 64 bit currently. As of now, there are **NO** plans to support any other device. If you ask for/suggest it, people will most likely be toxic to you.
 
 ### When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
 - You downloaded the Onix Client DLL, which is only for use with other injectors. If you don't know what a DLL file is, **don't use it**. You should download the launcher from the [#download](https://discord.com/channels/814195071356370977/852334369061863464) channel, and click "Launch" or "Inject" to use the client. If you want to use Onix with another injector, you may use it. It is not needed for the Onix injectors/launchers as they auto download the DLL.
+- Due note, if you use another injector, if something happens to your computer, we are not responsible for this. Any third-party launcher will also not be updated or be marked safe by Onix.
 
 ### My anti virus says Onix is malware. Is this true?
 - We can assure you that Onix client is safe. It gets marked as a virus because it injects a DLL into a process. Lots of viruses do the same thing for malicious purposes.
@@ -47,33 +48,22 @@ Look at your system type under device specifications.
 ### Architecture Error
 ![](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
 - You have a 32-bit version of Minecraft. This could come in the form of "FPS boosting" or "Lag Free" AppX files.
-
-### Solution:
-- Uninstall Minecraft and redownload it from the Microsoft Store, which will download the 64-bit version.
+- To fix this, you will need to uninstall Minecraft and redownload it from the Microsoft Store, which will download the 64-bit version.
 
 ### Unsupported Version
 ![](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
 - Like the error message says, you have a version of Minecraft that isn't supported. A full list of supported versions exists in the FAQ.
-
-### Solution:
-There are 2 possible solutions, depending on your case.
-- If the game recently updated, wait for Onix Client to support your version in a future update.
-- Otherwise, switch to a supported version. The FAQ shows you how to do this later on.
+- If the version is not working and you are **above** 1.16.40, either wait for Onix Client to upgrade, or downgrade using something like [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher)
+- If the version is not working and you are below 1.16.40, you will need to use a higher version as Onix does not support versions below 1.16.40. Sorry!
 
 ### Injection Error
 ![](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
 - An unknown error occurred while injecting Onix Client. This could be due to your antivirus.
-
-### Solution:
-- Currently, there is no definite solution for this error. You could make a support ticket on our Discord and we'll try to help you.
+- Please create a support ticket on our Discord and we will try to help you, as this problem is different depending on the case.
 
 ### Launch Error (no screenshot, rare error message)
 - An unknown error occurred while launching.
-
-### Solution:
-- Make sure you have **Minecraft for Windows 10** installed, and;
-- Disable your antivirus if you haven't already.
-- If you meet both of these conditions, there is no solution to this error.
+- Make sure you have **Minecraft for Windows 10/11** installed, and disable your antivirus if you haven't already. If this doesn't work, there is no solution to this error.
 
 ## How do I get the Onix UI?
 [Download it here.](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack) Thanks to rice#2532 (aka Riceexe) for stealing HJN's ui.
