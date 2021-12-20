@@ -59,11 +59,11 @@ Look at your system type under device specifications.
 ### Injection Error
 ![](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
 - An unknown error occurred while injecting Onix Client. This could be due to your antivirus.
-- Please create a support ticket on our Discord and we will try to help you, as this problem is different depending on the case.
+- Currently, there is no definite solution for this error. You could make a support ticket on our Discord and we'll try to help you.
 
 ### Launch Error (no screenshot, rare error message)
 - An unknown error occurred while launching.
-- Make sure you have **Minecraft for Windows 10/11** installed, and disable your antivirus if you haven't already. If this doesn't work, there is no solution to this error.
+- Make sure you have **Minecraft for Windows 10/11** installed, and disable your antivirus if you haven't already. (You can also make a file exclusion for the onix launcher if you prefer to). If this doesn't work, there is no solution to this error.
 
 ## How do I get the Onix UI?
 [Download it here.](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack) Thanks to rice#2532 (aka Riceexe) for stealing HJN's ui.
