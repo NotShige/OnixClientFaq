@@ -1,13 +1,13 @@
 # [![Onix Client Logo](https://github.com/notJudahRR/OnixClientFaq/blob/main/onixlogosmall.png?raw=true)](https://discord.gg/OnixClient) Onix Client FAQ
 
-Onix Client is the best client for Minecraft Bedrock Edition. Sometimes, however, you may need help setting it up, and this is what this is for. This has all of the common questions about Onix Client, instillation, and usage. If you have any suggestions for this page, please fork this repository, edit it, and then create a pull request. Finally, if you have any other questions please join the Discord server and create a ticket there.
+Onix Client is the best client for Minecraft Bedrock Edition. Sometimes, however, you may need help setting it up, and this is what this is for. This has all of the common questions about Onix Client, installation, and usage. If you have any suggestions for this page, please fork this repository, edit it, and then create a pull request. Finally, if you have any other questions please join the Discord server and create a ticket there.
 
 ## 📪 Where can I download Onix Client?
 
 To download the Onix Client go to the [#download](https://discord.com/channels/814195071356370977/852334369061863464) channel. Once you do this you have a few options.
 
 ### Launcher (recommended option)
-- Download the launcher and open it. Then, hit launch and in a few seconds it will be automatically injected into your game. Then, your done!
+- Download the launcher and open it. Then, hit launch and in a few seconds, it will be automatically injected into your game. Then, you're done!
 
 ### Injector & DLL
 - Use the Onix Injector and download the DLL. Select the DLL. Then, launch Minecraft and go back into the injector. Once, Minecraft loads click Inject.
@@ -15,36 +15,36 @@ To download the Onix Client go to the [#download](https://discord.com/channels/8
 
 ## 🔒 Is Onix Client safe?
 
-Yes, we can assure that Onix Client is 100% safe for use. Your antivirus might flag it because it injects a DLL into the game. However, due note these things:
+Yes, we can assure you that Onix Client is 100% safe for use. Your antivirus might flag it because it injects a DLL into the game. However, due note these things:
 - Our injector can only inject into Minecraft, other viruses attack other applications, if not all.
 - If you use any third-party program along with our DLL, we are **NOT** ensuring functionality or the fact that this is safe. However, any Onix Client file used is 100% safe.
 - If you ever feel like anything is not safe, **DON'T** use it.
 
 ## 📱 What devices does Onix Client support?
 
-### You have to use Windows 10/11. You also need the 64-bit operating system with a x64-based processor.
+### You have to use Windows 10/11. You also need the 64-bit operating system with an x64-based processor.
 
 To find out whether you can use Onix Client or not check this out:
 
 ![](https://user-images.githubusercontent.com/64127681/140582244-70a847bf-a2fb-41dc-ae0c-320090bbf23e.png)
 - If it says "64-bit operating system, x64-based processor", you can use Onix Client.
-- If it says "32-bit operating system, x64-based processor", you need to install the 64-bit version of Windows. We will not be showing you how to do that here, so go do your own research.
+- If it says "32-bit operating system, x64-based processor", you need to install the 64-bit version of Windows. We will not be showing you how to do that here, so go do your research.
 - If it says "32-bit operating system, ***x86***-based processor", unfortunately, you can't use Onix Client.
 - If your PC is ARM or Qualcomm based, you can't use Onix Client either.
 
 ### We have no plan to support any other device other than Windows 10/11. Please do not ask, it is just annoying and people may be toxic to you.
 
-## 🌊 When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
+## 🌊 When I open the client, I get an error saying: "You are attempting to open a file of type 'system file'", why does this happen?
 
-This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen. Read more [here](https://github.com/HugoNotHere/OnixClientFaq/blob/main/README.md#-where-can-i-download-onix-client).
+This is because you are trying to open the DLL, which only works with other injectors. The DLL file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen. Read more [here](https://github.com/HugoNotHere/OnixClientFaq/blob/main/README.md#-where-can-i-download-onix-client).
 
 ## 🔧 Can I turn off or customize the "OnixClient on top!" splash text?
 
-No, this is to tell whether Onix client has been injected properly. If this does not show up a few seconds after injecting the client, then you know something is wrong, and it wasn't done right. This feature is mainly just for testing and support purposes.
+No, this is to tell whether Onix Client has been injected properly. If this does not show up a few seconds after injecting the client, then you know something is wrong, and it wasn't done right. This feature is mainly just for testing and support purposes.
 
 ## 🐞 When I inject, my game crashes. Why does this happen?
 
-Your game is probably in a version that Onix Client does not support. If you are below 1.16.40, you will need to upgrade to higher version. If you are below, the latest supported version, you will need to downgrade. You can find a great version switcher [here](https://github.com/MCMrARM/mc-w10-version-launcher)! To check if you are using a verison Onix Client supports make sure you can find your version in this list:
+Your game is probably in a version that Onix Client does not support. If you are below 1.16.40, you will need to upgrade to a higher version. If you are below, the latest supported version, you will need to downgrade. You can find a great version switcher [here](https://github.com/MCMrARM/mc-w10-version-launcher)! To check if you are using a version Onix Client supports make sure you can find your version in this list:
 
 ```
 1.18.2
@@ -78,7 +78,7 @@ If you have already downloaded Xbox Console Companion, log out and log back in. 
 ## 🏢 Architecture Error
 ![Architecture Error](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
 
-If this shows up, you probably have a 32-bit version of Minecraft. This is usually branded under FPS Boosting or Lag Free AppX files. However, this is not compatible with Onix Client.
+If this shows up, you probably have a 32-bit version of Minecraft. This is usually branded under FPS Boosting or Lag-Free AppX files. However, this is not compatible with Onix Client.
 
 ## ⛔ Unsupported Version
 ![Unsupported Version](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
@@ -88,7 +88,7 @@ You have a version of Minecraft that is not supported, you can see this list of 
 ## 💉 Injection Error
 ![Injection Error](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
 
-An error occured while trying to inject Onix Client. This may be due to your anti-virus, however, we cannot quite pinpoint this issue to a cause. Please open a ticket if you have issues resolving this problem.
+An error occurred while trying to inject Onix Client. This may be due to your anti-virus, however, we cannot quite pinpoint this issue to a cause. Please open a ticket if you have issues resolving this problem.
 
 ## 🎨 How can I get Onix UI?
 
@@ -106,7 +106,7 @@ Open chat, and type in ```.syncrainbow```, hit Enter. This should sync the modul
 
 ## 🔎 Why is the zoom not working with my hotkey?
 
-Right click the module first (you can do this with any module to enable it). This is not a bug, but a feature that allows Onix to have a zoom out animation if you have zoom animations enabled.
+Right-click the module first (you can do this with any module to enable it). This is not a bug, but a feature that allows Onix to have a zoom out animation if you have zoom animations enabled.
 
 ## ❌ How do I remove the client?
 
@@ -162,7 +162,7 @@ Module Search
 Client Side Nick (.nick)
 ```
 
-Say ```.help``` in chat for complete list of Onix commands.
+Say ```.help``` in chat for a complete list of Onix commands.
 
 ## 🗝️ How do I open module settings?
 
@@ -200,7 +200,7 @@ To enable Minecraftia font, open the module settings and enable "Minecraftia Fon
 
 ## 🧪 Why don't the PotionHUD icons show up?
 
-One of your texture packs, probably broke them. But don't worry, we have a PotionHUD Fixer [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack)! Due note: this pack may break custom hotbars/XP bars.
+One of your texture packs probably broke them. But don't worry, we have a PotionHUD Fixer [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack)! Due note: this pack may break custom hotbars/XP bars.
 
 ## ⚠️ Why does the Onix launcher/injector give me a .NET Framework error when I open it?
 
@@ -214,13 +214,13 @@ Turn off "Hide Tile Entities".
 
 Say ```.theme``` in chat to reveal the theme editor. To share themes, go to your Onix Client folder and find the file called ```theme.txt```. To use a theme made by someone else, make sure Minecraft is closed, then delete the ```theme.txt``` file from the Onix folder (```%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\```) and replace it with your desired theme. There isn't a theme manager like the config one (.config) and there probably never will be because Onix doesn't want to make it.
 
-## 💜 How do I reset a color/module?
+## 💜 How do I reset a colour/module?
 
-Middle click the change color button or the module in the Onix GUI. You can middle click by pressing the scroll wheel down, or clicking with 3 fingers on a trackpad.
+Middle-click the change colour button or the module in the Onix GUI. You can middle-click by pressing the scroll wheel down or clicking with 3 fingers on a trackpad.
 
-## 🔻 How do I remove the red arrow from minecraft?
+## 🔻 How do I remove the red arrow from Minecraft?
 
-Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+by+Mhavin.mcpack/file) and apply it. The reason why it exists is because the pack maker/porter of one of your packs never updated hud_screen.json. The bug report and discussion can be found [here](https://bugs.mojang.com/browse/MCPE-105882).
+Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+by+Mhavin.mcpack/file) and apply it. The reason why it exists is that the pack maker/porter of one of your packs never updated hud_screen.json. The bug report and discussion can be found [here](https://bugs.mojang.com/browse/MCPE-105882).
 
 ![Red Arrow Bug](https://camo.githubusercontent.com/611f29fa85267ae8044cf1a3238a2afb2383d681bb7bbdf31c1a2f646c7d4f43/68747470733a2f2f696d616765732d6578742d312e646973636f72646170702e6e65742f65787465726e616c2f5861544a716e464b70546d5676705a527349556a69625272533143684442386e5a434a473078756b4c33452f68747470732f6875676f2e706c656173652d656e642e6d652f6f67702f35386e4d69557748642e706e67)
 
