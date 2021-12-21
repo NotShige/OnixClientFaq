@@ -318,6 +318,11 @@ Depending on the antivirus that you're using, you should either turn it off so y
 <td style="text-align:center"><a href="https://bit.ly/3lmM701">Exclude</a></td>
 <td style="text-align:center"><a href="https://bit.ly/3ikdGFs">Disable</a></td>
 </tr>
+<tr>
+<td style="text-align:center">k7</td>
+<td style="text-align:center"><a href="https://shorturl.at/twFU5">Exclude</a></td>
+<td style="text-align:center"><a href="https://shorturl.at/yHIM0">Disable</a></td>
+</tr>
 </tbody>
 </table>
 
