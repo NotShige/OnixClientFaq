@@ -168,11 +168,12 @@ Say ```.help``` in chat for a complete list of Onix commands.
 
 Press L or Insert, then click "Module Settings".
 
-## 🎥 How do I apply for YouTube Role/Rank (@Youtuber)?
+## 🎥 How do I apply for YouTube Role/Rank in the Discord? (@Youtuber)?
 
 Requirements:
 - 750+ Subs
-- A video about Onix Client If you meet the requirements, open a ticket.
+- A video about Onix Client 
+If you meet the requirements, open a ticket.
 
 ## 🔨 Do I get beta access if I boost?
 
