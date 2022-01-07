@@ -97,11 +97,7 @@ An error occurred while trying to inject Onix Client. This may be due to your an
 
 ## 🎨 How can I get Onix UI?
 
-You can download the Onix UI [here](https://cdn.discordapp.com/attachments/833457218040758272/884252116355526726/onixui.mcpack). This was made by rice#2532 (aka Riceexe). **This is not maintained by the Onix team and will never have any updates in the future.** 
-
-If you use the UI on version 1.17+, the pause menu might break. Use this [pack](https://cdn.discordapp.com/attachments/814260749232898058/842613971751665704/PauseMenuFixByRice.mcpack) to fix it. This was also made by rice.
-![OnixUI Image 1](https://camo.githubusercontent.com/afebc1c9e86f13b9b85181aa57b0b82d20ccda85c3e7b51215273a4925f2cbba/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3833333435373231383034303735383237322f3838343235323533383434393332363131302f756e6b6e6f776e2e706e67)
-![OnixUI Image 2](https://camo.githubusercontent.com/848ce8c43d80b1c8d1a6a63282c36d13fdb0cf5f5bba92ee158c89fe0cab753e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3833333435373231383034303735383237322f3838343235323734373233373536383536322f756e6b6e6f776e2e706e67)
+It's being remade as of recently. You'll have to wait.
 
 ## 💰 How can I support Onix and the client?
 
