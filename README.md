@@ -253,73 +253,73 @@ Depending on the antivirus that you're using, you should either turn it off so y
 <tbody>
 <tr>
 <td style="text-align:center">Windows Defender</td>
-<td style="text-align:center"><a href="https://bit.ly/3amcRre">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3dt5Rec">Disable</a></td>
+<td style="text-align:center"><a href="https://www.technipages.com/windows-10-how-to-exclude-a-file-from-windows-defender/">Exclude</a></td>
+<td style="text-align:center"><a href="https://support.microsoft.com/en-us/windows/turn-microsoft-defender-firewall-on-or-off-ec0844f7-aebd-0583-67fe-601ecf5d774f">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Norton</td>
-<td style="text-align:center"><a href="https://bit.ly/3t8FqA3">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/2RptJXE">Disable</a></td>
+<td style="text-align:center"><a href="https://www.lifewire.com/exclude-files-from-norton-antivirus-scans-153348#">Exclude</a></td>
+<td style="text-align:center"><a href="https://www.lifewire.com/disable-norton-antivirus-4589389">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Malwarebytes</td>
-<td style="text-align:center"><a href="https://bit.ly/3s0zmbf">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3dS2D2Y">Disable</a></td>
+<td style="text-align:center"><a href="https://support.malwarebytes.com/hc/en-us/articles/360039024133-Exclude-detections-in-Malwarebytes-for-Windows-v3">Exclude</a></td>
+<td style="text-align:center"><a href="https://support.malwarebytes.com/hc/en-us/articles/360038524894-Enable-or-disable-Real-Time-Protection-in-Malwarebytes-for-Windows-v3">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">McAfee</td>
-<td style="text-align:center"><a href="https://bit.ly/3oNrNqp">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3g2nbIG">Disable</a></td>
+<td style="text-align:center"><a href="https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102056">Exclude</a></td>
+<td style="text-align:center"><a href="https://www.linksys.com/us/support-article?articleNum=135555">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Avast</td>
-<td style="text-align:center"><a href="https://bit.ly/3wImlqq">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3uEzkrj">Disable</a></td>
+<td style="text-align:center"><a href="https://support.avast.com/en-ph/article/Antivirus-scan-exclusions/">Exclude</a></td>
+<td style="text-align:center"><a href="https://bestantiviruspro.org/blog/how-to-temporarily-disable-avast/#:~:text=Go%20to%20the%20Windows%20taskbar,until%20computer%20restart%20OR%20permanently.">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">BitDefender</td>
-<td style="text-align:center"><a href="https://bit.ly/3d53Kgy">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/2RjRDnf">Disable</a></td>
+<td style="text-align:center"><a href="https://www.bitdefender.com/consumer/support/answer/13427/">Exclude</a></td>
+<td style="text-align:center"><a href="https://clean-my-pc.com/how-to-disable-bitdefender#:~:text=Disable%20Bitdefender%20Issues&amp;amp;text=Open%20the%20Bitdefender%20software%20application,option%20from%20the%20Shield%20tab.">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Kaspersky Internet Security</td>
-<td style="text-align:center"><a href="https://bit.ly/33viG54">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3GVMfv0">Disable</a></td>
+<td style="text-align:center"><a href="https://support.kaspersky.com/KESWin/10SP2/en-US/128138.htm">Exclude</a></td>
+<td style="text-align:center"><a href="https://support.kaspersky.com/KIS/2020/en-US/43539.htm">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Quick Heal</td>
-<td style="text-align:center"><a href="https://bit.ly/3quUbws">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3AbYIYS">Disable</a></td>
+<td style="text-align:center"><a href="https://pastebinp.com/1qXb5ugXTJJvzPwN0grgHQ#X4eOM2tB_9A9D4HqARc8CZpnsDQkBgIsbHC_axVGAgg=">Exclude</a></td>
+<td style="text-align:center"><a href="https://www.quora.com/How-do-I-disable-Quick-Heal-antivirus-in-Windows-8-1">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">AVG</td>
-<td style="text-align:center"><a href="https://bit.ly/3hfyeNG">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3dxe1BM">Disable</a></td>
+<td style="text-align:center"><a href="https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions#:~:text=Open%20AVG%20AntiVirus%20and%20go,box,%20then%20click%20Add%20exception.">Exclude</a></td>
+<td style="text-align:center"><a href="https://pastebinp.com/KkUjBKhGXpr1rHXq5EVxQ#kK0YoBfCMex0gJyy33GH9mpp2P5cORVZjEhCzdx6a6U=">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Webroot</td>
-<td style="text-align:center"><a href="https://bit.ly/3hF8uuf">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/36jG1Vw">Disable</a></td>
+<td style="text-align:center"><a href="https://pastebinp.com/990CALwgMkEVszAPC1WBg#nHxmjWr0CKHZ-Kzmz11djBCbLmkkuE_iWawPdRuCJV0=">Exclude</a></td>
+<td style="text-align:center"><a href="https://community.webroot.com/tech-talk-7/how-can-i-turn-off-webroot-temporarily-337647">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Panda/Panda Dome</td>
-<td style="text-align:center"><a href="https://bit.ly/3jPIIpN">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3dSmRug">Disable</a></td>
+<td style="text-align:center"><a href="https://www.pandasecurity.com/en/support/card?id=55521">Exclude</a></td>
+<td style="text-align:center"><a href="https://www.techwalla.com/articles/how-to-disable-the-panda-antivirus#">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Spectrum F-Secure</td>
-<td style="text-align:center"><a href="https://bit.ly/3ei1Zg4">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3hGm81B">Disable</a></td>
+<td style="text-align:center"><a href="https://pastebinp.com/RuwyAM9BvnlJJO5GmXAw#RXthundQfjFjfWCDz-XjlpU4_zt-cXCXx3i0f0r6dcU=">Exclude</a></td>
+<td style="text-align:center"><a href="https://pastebinp.com/GfkArfGf8xP2bSTbgfIzJg#vxqH7m8Yweb2waI-MvjoAM4apryli6Cj_5fsf75pg5U=">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">PCMatic</td>
-<td style="text-align:center"><a href="https://bit.ly/3lmM701">Exclude</a></td>
-<td style="text-align:center"><a href="https://bit.ly/3ikdGFs">Disable</a></td>
+<td style="text-align:center"><a href="https://forums.pcmatic.com/topic/203530-manually-adding-a-programservice-to-whitelist/">Exclude</a></td>
+<td style="text-align:center"><a href="https://forums.pcmatic.com/topic/205678-is-there-any-way-to-turn-pcmatic-off/">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">k7</td>
-<td style="text-align:center"><a href="https://shorturl.at/twFU5">Exclude</a></td>
-<td style="text-align:center"><a href="https://shorturl.at/yHIM0">Disable</a></td>
+<td style="text-align:center"><a href="https://support.k7computing.com/index.php?/selfhelp/view-article/How-can-I-manage-exclusion">Exclude</a></td>
+<td style="text-align:center"><a href="https://support.sathyainfo.com/kb/a239/how-do-i-disable-my-antivirus-program-in-windows.aspx">Disable</a></td>
 </tr>
 </tbody>
 </table>
