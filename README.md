@@ -88,7 +88,7 @@ You have a 32-bit version of Minecraft. This is usually branded under FPS Boosti
 ### ⛔ Unsupported Version
 ![Unsupported Version](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
 
-You have a version of Minecraft that is not supported. You can see this list of supported versions [here](https://github.com/notJudahRR/OnixClientFaq#-list-of-supported-versions).
+You have a version of Minecraft that is not supported. You can see this list of supported versions [here](https://github.com/HugoNotHere/OnixClientFaq#list-of-supported-versions).
 
 ### 💉 Injection Error
 ![Injection Error](https://user-images.githubusercontent.com/64127681/139366443-21a01000-36c3-44a0-842e-30030bdf31d5.png)
