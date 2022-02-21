@@ -117,7 +117,7 @@ Hold CTRL + L.
 
 ## 💺 What's the latest version of the client?
 
-The current latest version is 2.69.
+The current latest version is 2.70.
 
 ## ⚙️ What features do we have in the client?
 
@@ -224,18 +224,31 @@ Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+
 
 ## 📋 Where can I find the latest changelog?
 
-### Changelog for OnixClient 2.69
+### Changelog for OnixClient 2.70
 
 ```
-- various fixes for Item Physics in version 1.18.0
-- killing mobs or reloading item entities will still cause them to spin forever as if they were still in air, this is a 1.18 issue where items are actually flying over the ground.
-- various bug fixes for Keystrokes
-- limited the Creative Tools autoclicker to 200 CPS
-- custom crosshair will now disable itself if an invalid crosshair is selected
-- improved the description for Waypoint and Audio Subtitles
-- fixed an issue where loading the modules far from the corners reposition to incorrect spots
-- fixed an issue when migrating a config from the previous update that would cause a blank gui 
-- added support for 1.18.2
+Client:
+- Updated to 1.18.10 and 1.18.12
+- Fixed crashes related to AutoGG
+
+QOL fixes/tweaks:
+- Re-enabled FPS showing in the Java Debug Menu
+- Fixed block position in Java Debug Menu occasionally reading inaccurately
+- Speed display now works properly when riding entities
+- Increased the creative tools block reach cap from 12 to 25
+- Renamed and clarified all module descriptions
+- Fixed rounding errors in Direction HUD
+- Fixed some instances where mod menu text would render invisible on 1.17.40 and 1.17.41
+
+Launcher:
+- Removed the taskbar icon
+- Fixed Discord Presence not updating because of the taskbar icon
+- Added logs for troubleshooting purposes, which are located in %localappdata%\Onix Launcher\Logs
+- RPC Error has been moved to the logs, and is no longer displayed as an error message
+- Custom DLL is now Insider Mode and can be toggled on/off by double clicking the Onix logo
+
+Miscellaneous:
+creative tools freecam is gone from 1.18.10/1.18.12 and future versions
 ```
 
 ## 🦠 My antivirus blocks the client.
