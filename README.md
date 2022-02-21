@@ -344,8 +344,8 @@ Depending on the antivirus that you're using, you should either turn it off so y
 ^^ This issue is now fixed.
 
 
-If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it.
-
+If you have an antivirus that's not included here or if a link stops working, ~~DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it.~~
+DM [Isaiahluke40#3089](https://discord.com/users/397244496586211339) for now until Hugo comes back.
 ## 🤝 Contributing
 
 You can contribute to this FAQ by making a fork of this project, editing it, and submitting a pull request. All **valid** help is accepted and is encouraged. Thank you for reading and helping to make this better!
