@@ -37,6 +37,13 @@ Right click the Start button and click "System", which takes you to this screen:
 
 ### We have no plans to support any devices other than Windows PCs. Don't ask for it.
 
+## 🔄 The launcher didn't auto update. How do I fix this?
+Press the windows Windows Key + R and paste the following:
+
+`cmd.exe /c del "%localappdata%\Onix Launcher\OnixClient.dll" && pause`
+
+This will delete the old Onix Client dll, and the launcher will install the new one on launch.
+
 ## 🌊 When I open the client, I get an error saying: "You are attempting to open a file of type 'system file'". Why does this happen?
 
 This is because you are trying to open the DLL, which only works with other injectors. The DLL file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. If you use a third-party injector, we are not responsible for anything that might happen.
