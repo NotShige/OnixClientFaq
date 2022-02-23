@@ -38,7 +38,7 @@ Right click the Start button and click "System", which takes you to this screen:
 ### We have no plans to support any devices other than Windows PCs. Don't ask for it.
 
 ## 🔄 The launcher didn't auto update. How do I fix this?
-Press the windows Windows Key + R and paste the following:
+Press the Windows Key + R and paste the following:
 
 `cmd.exe /c del "%localappdata%\Onix Launcher\OnixClient.dll" && pause`
 
@@ -76,6 +76,10 @@ Make sure you have the Xbox Console Companion, which you can download [here](htt
 
 If you have already downloaded Xbox Console Companion, log out and log back in to fix it.
 
+## ❓ I clicked Launch and I see the "OnixClient on top!" splash text. Now what?
+
+Go to a world or server and press L or Insert, then you'll be able to see the Client Settings button. To activate modules, right-click on them.
+
 ## Common launcher errors
 
 ### 🏢 Architecture Error
@@ -103,7 +107,7 @@ You can support us by [becoming a patron](https://www.patreon.com/onixclient). T
 
 ## 🌈 Why are my rainbow modules not synced/in time with each other?
 
-Open chat, and type in ```.syncrainbow```, hit Enter. This should sync the modules together.
+Press L, click on Client Settings, then turn on "Sync All Rainbow" on the Global Settings. This should sync the modules together.
 
 ## 🔎 Why is the zoom not working with my hotkey?
 
@@ -164,10 +168,6 @@ Client Side Nick (.nick)
 ```
 
 Say ```.help``` in chat for a complete list of Onix commands.
-
-## 🗝️ How do I open module settings?
-
-Press L or Insert, then click "Module Settings".
 
 ## 🎥 How do I apply for YouTube Role/Rank in the Discord? (@Youtuber)?
 
