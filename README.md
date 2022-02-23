@@ -58,6 +58,8 @@ Your game is most likely on an unsupported version. If you are below 1.16.40, yo
 
 ### List of supported versions:
 ```
+1.18.12
+1.18.10
 1.18.2
 1.18.1
 1.18.0
