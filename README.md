@@ -79,7 +79,7 @@ If you have already downloaded Xbox Console Companion, log out and log back in t
 ## Common launcher errors
 
 ### 🏢 Architecture Error
-![Architecture Error](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
+![Architecture Error](https://user-images.githubusercontent.com/71997480/155264737-8ca1a0ab-4b5e-401c-8d9e-96cfa061ac26.png)
 
 You have a 32-bit version of Minecraft. This is usually branded under FPS Boosting or Lag-Free AppX files. These are not compatible with Onix Client.
 
