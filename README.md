@@ -343,7 +343,10 @@ Depending on the antivirus that you're using, you should either turn it off so y
 
 
 If you have an antivirus that's not included here or if a link stops working, ~~DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it.~~
-DM [Isaiahluke40#3089](https://discord.com/users/397244496586211339) for now until Hugo comes back.
+
+DM [Isaiahluke40#3089](https://discord.com/users/397244496586211339) for now until Hugo comes back. (Only if related to antivirus problems). If I'm not online, I suggest going to [#make-a-ticket](https://discord.com/channels/814195071356370977/945717582269399050) and create a ticket.
+
+Please go to [#make-a-ticket](https://discord.com/channels/814195071356370977/945717582269399050) and create a ticket there if you are currently encountering issues relating to the injector and/or client. (Please wait patiently after making a ticket)
 ## 🤝 Contributing
 
 You can contribute to this FAQ by making a fork of this project, editing it, and submitting a pull request. All **valid** help is accepted and is encouraged. Thank you for reading and helping to make this better!
