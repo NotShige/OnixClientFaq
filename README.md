@@ -265,7 +265,7 @@ Depending on the antivirus that you're using, you should either turn it off so y
 <tr>
 <td style="text-align:center">Windows Defender</td>
 <td style="text-align:center"><a href="https://www.technipages.com/windows-10-how-to-exclude-a-file-from-windows-defender/">Exclude</a></td>
-<td style="text-align:center"><a href="https://support.microsoft.com/en-us/windows/turn-microsoft-defender-firewall-on-or-off-ec0844f7-aebd-0583-67fe-601ecf5d774f">Disable</a></td>
+<td style="text-align:center"><a href="https://support.microsoft.com/en-us/windows/turn-off-defender-antivirus-protection-in-windows-security-99e6004f-c54c-8509-773c-a4d776b77960">Disable</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Norton</td>
